@@ -15,7 +15,7 @@ the snake finds the closest contribution cell on the graph with BFS then eats it
 includes a light and dark mode that changes depending on the viewer's browser setting!
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hannahstorer/snake-game/output/snake_darkmode.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hannahstorer/snake-game/output/snake_lightmode.svg">
-  <img alt="snake" src="https://raw.githubusercontent.com/hannahstorer/snake-game/output/snake_darkmode.svg?v=2">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hannahstorer/snake-game/output/snake_darkmode.svg?v=3">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hannahstorer/snake-game/output/snake_lightmode.svg?v=3">
+  <img alt="snake" src="https://raw.githubusercontent.com/hannahstorer/snake-game/output/snake_darkmode.svg?v=3">
 </picture>
