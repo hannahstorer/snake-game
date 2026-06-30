@@ -9,14 +9,14 @@ THEMES = {
     "dark": { #github darkmode colors
         "bg": "transparent",
         "empty": "#161b22",
-        "levels": ["#0e4429", "#006d32", "#26a641", "#39d353"],
+        "levels": ["#14532d", "#166534", "#16a34a", "#4ade80"],
         "head": "#b899d4",
         "body": "#b07acc",
     },
     "light": { #github lightmode colors
         "bg": "transparent",
         "empty": "#ebedf0",
-        "levels": ["#9be9a8", "#40c463", "#30a14e", "#216e39"],
+        "levels": ["#14532d", "#166534", "#16a34a", "#4ade80"],
         "head": "#b899d4",
         "body": "#b07acc",
     },
