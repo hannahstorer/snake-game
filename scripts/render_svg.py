@@ -68,7 +68,7 @@ def render(grid, frames, theme_name):
         orig = colors[(w, d)]
         svg.append(
             f"@keyframes {name} {{ 0% {{ fill: {orig}; }} {pct:.3f}% {{ fill: {orig}; }} "
-            f"{min(pct + 1, 100):.3f}% {{ fill: {theme['empty']}; }} 100% {{ fill: {theme['empty']}; }} }}"
+            f"{min(pct + 0.1, 100):.3f}% {{ fill: {theme['empty']}; }} 100% {{ fill: {theme['empty']}; }} }}"
         )
         svg.append(f"#c-{w}-{d} {{ animation: {name} {duration:.2f}s linear infinite; }}")
     n_body = max((len(f["body"]) for f in frames), default=0) # total body blocks
