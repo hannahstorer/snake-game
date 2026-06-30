@@ -16,7 +16,7 @@ THEMES = {
     "light": { #github lightmode colors
         "bg": "transparent",
         "empty": "#ebedf0",
-        "levels": ["#14532d", "#166534", "#16a34a", "#4ade80"],
+        "levels": ["#d6f0da", "#8dc99a", "#4a9e5c", "#1e6b3a"],
         "head": "#b899d4",
         "body": "#b07acc",
     },
