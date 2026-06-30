@@ -75,18 +75,6 @@ def build_path(grid):
                 eaten.add(cell)
         cur = step[-1]
 
-    # make sure whole grid is visited and walk over unvisited cells to finish animation
-    visited = set(cells)
-    for week, col in enumerate(grid):
-        days = range(7) if week % 2 == 0 else range(6, -1, -1) # alternate snake directions
-        for day in days:
-            cell = (week, day)
-            if cell not in visited:
-                step = bfs_path(grid, cur, cell)
-                for c in step[1:]:
-                    cells.append(c)
-                    visited.add(c)
-                cur = cell
 # attach cell's contribution count for render_svg
     return [(w, d, grid[w][d]) for (w, d) in cells]
 
