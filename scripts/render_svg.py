@@ -10,15 +10,15 @@ THEMES = {
         "bg": "transparent",
         "empty": "#161b22",
         "levels": ["#0e4429", "#006d32", "#26a641", "#39d353"],
-        "head": "#ffb6c1",
-        "body": "#ff9fb0",
+        "head": "#ff85a2",
+        "body": "#b07acc",
     },
     "light": { #github lightmode colors
         "bg": "transparent",
         "empty": "#ebedf0",
         "levels": ["#9be9a8", "#40c463", "#30a14e", "#216e39"],
         "head": "#ff85a2",
-        "body": "#ffaebc",
+        "body": "#b07acc",
     },
 }
 # separate contributions into 1-4 which is how github does it so it looks the same as the actual contribution graph
