@@ -6,7 +6,9 @@ TRAIL_LEN = 4 # how long the snake is (how many blocks behind the head)
 def in_bounds(grid, w, d):
     return 0 <= w < len(grid) and 0 <= d < 7 # grid is always 7 days tall because a week always has 7 days
 
-def bfs_path(grid, start, goal):
+def bfs_path(grid, start, goal, obstacles=None):
+    if obstacles is None:
+        obstacles = set()
     if start == goal:
         return [start]
 
@@ -20,12 +22,12 @@ def bfs_path(grid, start, goal):
         cw, cd = cur
         for dw, dd in ((1, 0), (-1, 0), (0, 1), (0, -1)):
             nxt = (cw + dw, cd + dd)
-            if nxt not in came_from and in_bounds(grid, *nxt):
+            if nxt not in came_from and in_bounds(grid, *nxt) and nxt not in obstacles:
                 came_from[nxt] = cur
                 queue.append(nxt)
 
     if goal not in came_from:
-        return None # grid has no obstacles so shouldn't happen
+        return None
 # have to reverse to find the path because came_from only goes backwards
     path = []
     node = goal
@@ -68,7 +70,13 @@ def build_path(grid):
         target = nearest_target(grid, cur, eaten, targets)
         if target is None:
             break
-        step = bfs_path(grid, cur, target)
+        # make sure the snake doesnt run over itself
+        body = set(cells[-TRAIL_LEN:])
+        step = bfs_path(grid, cur, target, obstacles=body)
+        if step is None:
+            # skip cell and go to the next nearest
+            eaten.add(target)
+            continue
         for cell in step[1:]:
             cells.append(cell)
             if cell in targets:
