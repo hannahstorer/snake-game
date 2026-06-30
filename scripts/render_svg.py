@@ -25,12 +25,12 @@ THEMES = {
 def level(count, max_count):
     if count <= 0 or max_count <= 0:
         return 0
-    if count == 1:
-        return 2
     ratio = count / max_count
     if ratio <= 0.25:
-        return 2
+        return 1
     if ratio <= 0.5:
+        return 2
+    if ratio <= 0.75:
         return 3
     return 4
 
