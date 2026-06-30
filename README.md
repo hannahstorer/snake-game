@@ -17,5 +17,5 @@ includes a light and dark mode that changes depending on the viewer's browser se
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hannahstorer/snake-game/output/snake_darkmode.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hannahstorer/snake-game/output/snake_lightmode.svg">
-  <img alt="snake" src="https://raw.githubusercontent.com/hannahstorer/snake-game/output/snake_darkmode.svg">
+  <img alt="snake" src="https://raw.githubusercontent.com/hannahstorer/snake-game/output/snake_darkmode.svg?v=2">
 </picture>
