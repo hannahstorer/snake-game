@@ -37,9 +37,18 @@ jobs:
           python scripts/render_svg.py
 
       - name: publish to output branch
-        uses: peaceiris/actions-gh-pages@v4
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_branch: output
-          publish_dir: ./dist
-          keep_files: false
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add -f dist/
+          git stash
+          git fetch origin
+          git checkout output 2>/dev/null || git checkout --orphan output
+          git rm -rf . --quiet 2>/dev/null || true
+          git stash pop
+          cp -r dist/* .
+          git add snake_darkmode.svg snake_lightmode.svg
+          git commit -m "update snake"
+          git push origin output --force
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
