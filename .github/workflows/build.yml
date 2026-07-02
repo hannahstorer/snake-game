@@ -40,13 +40,11 @@ jobs:
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git add -f dist/
-          git stash
           git fetch origin
           git checkout output 2>/dev/null || git checkout --orphan output
           git rm -rf . --quiet 2>/dev/null || true
-          git stash pop
-          cp -r dist/* .
+          cp dist/snake_darkmode.svg snake_darkmode.svg
+          cp dist/snake_lightmode.svg snake_lightmode.svg
           git add snake_darkmode.svg snake_lightmode.svg
           git commit -m "update snake"
           git push origin output --force
