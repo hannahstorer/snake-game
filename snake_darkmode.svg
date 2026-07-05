@@ -60,14 +60,14 @@
 #c-8-0 { fill: #161b22; }
 #c-8-1 { fill: #161b22; }
 #c-8-2 { fill: #161b22; }
-#c-8-3 { fill: #161b22; }
+#c-8-3 { fill: #14532d; }
 #c-8-4 { fill: #161b22; }
 #c-8-5 { fill: #161b22; }
 #c-8-6 { fill: #161b22; }
 #c-9-0 { fill: #161b22; }
 #c-9-1 { fill: #161b22; }
 #c-9-2 { fill: #161b22; }
-#c-9-3 { fill: #14532d; }
+#c-9-3 { fill: #161b22; }
 #c-9-4 { fill: #161b22; }
 #c-9-5 { fill: #161b22; }
 #c-9-6 { fill: #161b22; }
@@ -80,44 +80,44 @@
 #c-10-6 { fill: #161b22; }
 #c-11-0 { fill: #161b22; }
 #c-11-1 { fill: #161b22; }
-#c-11-2 { fill: #161b22; }
-#c-11-3 { fill: #161b22; }
-#c-11-4 { fill: #161b22; }
+#c-11-2 { fill: #14532d; }
+#c-11-3 { fill: #14532d; }
+#c-11-4 { fill: #14532d; }
 #c-11-5 { fill: #161b22; }
 #c-11-6 { fill: #161b22; }
 #c-12-0 { fill: #161b22; }
 #c-12-1 { fill: #161b22; }
 #c-12-2 { fill: #14532d; }
-#c-12-3 { fill: #14532d; }
+#c-12-3 { fill: #161b22; }
 #c-12-4 { fill: #14532d; }
 #c-12-5 { fill: #161b22; }
 #c-12-6 { fill: #161b22; }
 #c-13-0 { fill: #161b22; }
 #c-13-1 { fill: #161b22; }
-#c-13-2 { fill: #14532d; }
-#c-13-3 { fill: #161b22; }
-#c-13-4 { fill: #14532d; }
-#c-13-5 { fill: #161b22; }
+#c-13-2 { fill: #161b22; }
+#c-13-3 { fill: #14532d; }
+#c-13-4 { fill: #161b22; }
+#c-13-5 { fill: #14532d; }
 #c-13-6 { fill: #161b22; }
 #c-14-0 { fill: #161b22; }
 #c-14-1 { fill: #161b22; }
 #c-14-2 { fill: #161b22; }
 #c-14-3 { fill: #14532d; }
-#c-14-4 { fill: #161b22; }
+#c-14-4 { fill: #14532d; }
 #c-14-5 { fill: #14532d; }
 #c-14-6 { fill: #161b22; }
 #c-15-0 { fill: #161b22; }
-#c-15-1 { fill: #161b22; }
-#c-15-2 { fill: #161b22; }
-#c-15-3 { fill: #14532d; }
+#c-15-1 { fill: #14532d; }
+#c-15-2 { fill: #14532d; }
+#c-15-3 { fill: #161b22; }
 #c-15-4 { fill: #14532d; }
-#c-15-5 { fill: #14532d; }
+#c-15-5 { fill: #161b22; }
 #c-15-6 { fill: #161b22; }
 #c-16-0 { fill: #161b22; }
-#c-16-1 { fill: #14532d; }
-#c-16-2 { fill: #14532d; }
-#c-16-3 { fill: #161b22; }
-#c-16-4 { fill: #14532d; }
+#c-16-1 { fill: #161b22; }
+#c-16-2 { fill: #161b22; }
+#c-16-3 { fill: #14532d; }
+#c-16-4 { fill: #161b22; }
 #c-16-5 { fill: #161b22; }
 #c-16-6 { fill: #161b22; }
 #c-17-0 { fill: #161b22; }
@@ -128,24 +128,24 @@
 #c-17-5 { fill: #161b22; }
 #c-17-6 { fill: #161b22; }
 #c-18-0 { fill: #161b22; }
-#c-18-1 { fill: #161b22; }
+#c-18-1 { fill: #14532d; }
 #c-18-2 { fill: #161b22; }
-#c-18-3 { fill: #14532d; }
-#c-18-4 { fill: #161b22; }
+#c-18-3 { fill: #161b22; }
+#c-18-4 { fill: #14532d; }
 #c-18-5 { fill: #161b22; }
 #c-18-6 { fill: #161b22; }
 #c-19-0 { fill: #161b22; }
-#c-19-1 { fill: #14532d; }
-#c-19-2 { fill: #161b22; }
+#c-19-1 { fill: #161b22; }
+#c-19-2 { fill: #14532d; }
 #c-19-3 { fill: #161b22; }
 #c-19-4 { fill: #14532d; }
 #c-19-5 { fill: #161b22; }
 #c-19-6 { fill: #161b22; }
 #c-20-0 { fill: #161b22; }
 #c-20-1 { fill: #161b22; }
-#c-20-2 { fill: #14532d; }
+#c-20-2 { fill: #161b22; }
 #c-20-3 { fill: #161b22; }
-#c-20-4 { fill: #14532d; }
+#c-20-4 { fill: #161b22; }
 #c-20-5 { fill: #161b22; }
 #c-20-6 { fill: #161b22; }
 #c-21-0 { fill: #161b22; }
@@ -153,24 +153,24 @@
 #c-21-2 { fill: #161b22; }
 #c-21-3 { fill: #161b22; }
 #c-21-4 { fill: #161b22; }
-#c-21-5 { fill: #161b22; }
+#c-21-5 { fill: #14532d; }
 #c-21-6 { fill: #161b22; }
 #c-22-0 { fill: #161b22; }
 #c-22-1 { fill: #161b22; }
 #c-22-2 { fill: #161b22; }
 #c-22-3 { fill: #161b22; }
-#c-22-4 { fill: #161b22; }
-#c-22-5 { fill: #14532d; }
+#c-22-4 { fill: #14532d; }
+#c-22-5 { fill: #161b22; }
 #c-22-6 { fill: #161b22; }
 #c-23-0 { fill: #161b22; }
-#c-23-1 { fill: #161b22; }
+#c-23-1 { fill: #14532d; }
 #c-23-2 { fill: #161b22; }
 #c-23-3 { fill: #161b22; }
-#c-23-4 { fill: #14532d; }
+#c-23-4 { fill: #161b22; }
 #c-23-5 { fill: #161b22; }
 #c-23-6 { fill: #161b22; }
 #c-24-0 { fill: #161b22; }
-#c-24-1 { fill: #14532d; }
+#c-24-1 { fill: #161b22; }
 #c-24-2 { fill: #161b22; }
 #c-24-3 { fill: #161b22; }
 #c-24-4 { fill: #161b22; }
@@ -216,14 +216,14 @@
 #c-30-2 { fill: #161b22; }
 #c-30-3 { fill: #161b22; }
 #c-30-4 { fill: #161b22; }
-#c-30-5 { fill: #161b22; }
+#c-30-5 { fill: #14532d; }
 #c-30-6 { fill: #161b22; }
 #c-31-0 { fill: #161b22; }
-#c-31-1 { fill: #161b22; }
+#c-31-1 { fill: #14532d; }
 #c-31-2 { fill: #161b22; }
 #c-31-3 { fill: #161b22; }
 #c-31-4 { fill: #161b22; }
-#c-31-5 { fill: #14532d; }
+#c-31-5 { fill: #161b22; }
 #c-31-6 { fill: #161b22; }
 #c-32-0 { fill: #161b22; }
 #c-32-1 { fill: #14532d; }
@@ -238,81 +238,81 @@
 #c-33-3 { fill: #161b22; }
 #c-33-4 { fill: #161b22; }
 #c-33-5 { fill: #161b22; }
-#c-33-6 { fill: #161b22; }
+#c-33-6 { fill: #16a34a; }
 #c-34-0 { fill: #161b22; }
-#c-34-1 { fill: #14532d; }
-#c-34-2 { fill: #161b22; }
-#c-34-3 { fill: #161b22; }
+#c-34-1 { fill: #161b22; }
+#c-34-2 { fill: #14532d; }
+#c-34-3 { fill: #14532d; }
 #c-34-4 { fill: #161b22; }
 #c-34-5 { fill: #161b22; }
-#c-34-6 { fill: #16a34a; }
+#c-34-6 { fill: #161b22; }
 #c-35-0 { fill: #161b22; }
 #c-35-1 { fill: #161b22; }
 #c-35-2 { fill: #14532d; }
 #c-35-3 { fill: #14532d; }
-#c-35-4 { fill: #161b22; }
+#c-35-4 { fill: #14532d; }
 #c-35-5 { fill: #161b22; }
 #c-35-6 { fill: #161b22; }
 #c-36-0 { fill: #161b22; }
-#c-36-1 { fill: #161b22; }
-#c-36-2 { fill: #14532d; }
-#c-36-3 { fill: #14532d; }
-#c-36-4 { fill: #14532d; }
+#c-36-1 { fill: #166534; }
+#c-36-2 { fill: #161b22; }
+#c-36-3 { fill: #161b22; }
+#c-36-4 { fill: #161b22; }
 #c-36-5 { fill: #161b22; }
 #c-36-6 { fill: #161b22; }
 #c-37-0 { fill: #161b22; }
-#c-37-1 { fill: #166534; }
+#c-37-1 { fill: #14532d; }
 #c-37-2 { fill: #161b22; }
-#c-37-3 { fill: #161b22; }
-#c-37-4 { fill: #161b22; }
+#c-37-3 { fill: #14532d; }
+#c-37-4 { fill: #14532d; }
 #c-37-5 { fill: #161b22; }
-#c-37-6 { fill: #161b22; }
+#c-37-6 { fill: #14532d; }
 #c-38-0 { fill: #161b22; }
-#c-38-1 { fill: #14532d; }
+#c-38-1 { fill: #161b22; }
 #c-38-2 { fill: #161b22; }
-#c-38-3 { fill: #14532d; }
+#c-38-3 { fill: #161b22; }
 #c-38-4 { fill: #14532d; }
 #c-38-5 { fill: #161b22; }
 #c-38-6 { fill: #14532d; }
 #c-39-0 { fill: #161b22; }
-#c-39-1 { fill: #161b22; }
-#c-39-2 { fill: #161b22; }
-#c-39-3 { fill: #161b22; }
-#c-39-4 { fill: #14532d; }
+#c-39-1 { fill: #14532d; }
+#c-39-2 { fill: #166534; }
+#c-39-3 { fill: #4ade80; }
+#c-39-4 { fill: #161b22; }
 #c-39-5 { fill: #161b22; }
-#c-39-6 { fill: #14532d; }
+#c-39-6 { fill: #161b22; }
 #c-40-0 { fill: #161b22; }
 #c-40-1 { fill: #14532d; }
 #c-40-2 { fill: #166534; }
-#c-40-3 { fill: #4ade80; }
-#c-40-4 { fill: #161b22; }
+#c-40-3 { fill: #14532d; }
+#c-40-4 { fill: #14532d; }
 #c-40-5 { fill: #161b22; }
-#c-40-6 { fill: #161b22; }
+#c-40-6 { fill: #14532d; }
 #c-41-0 { fill: #161b22; }
-#c-41-1 { fill: #14532d; }
-#c-41-2 { fill: #166534; }
-#c-41-3 { fill: #14532d; }
-#c-41-4 { fill: #14532d; }
-#c-41-5 { fill: #161b22; }
-#c-41-6 { fill: #14532d; }
+#c-41-1 { fill: #161b22; }
+#c-41-2 { fill: #161b22; }
+#c-41-3 { fill: #161b22; }
+#c-41-4 { fill: #161b22; }
+#c-41-5 { fill: #14532d; }
+#c-41-6 { fill: #161b22; }
 #c-42-0 { fill: #161b22; }
 #c-42-1 { fill: #161b22; }
 #c-42-2 { fill: #161b22; }
 #c-42-3 { fill: #161b22; }
 #c-42-4 { fill: #161b22; }
-#c-42-5 { fill: #14532d; }
+#c-42-5 { fill: #161b22; }
 #c-42-6 { fill: #161b22; }
 #c-43-0 { fill: #161b22; }
 #c-43-1 { fill: #161b22; }
 #c-43-2 { fill: #161b22; }
-#c-43-3 { fill: #161b22; }
+#c-43-3 { fill: #14532d; }
 #c-43-4 { fill: #161b22; }
 #c-43-5 { fill: #161b22; }
 #c-43-6 { fill: #161b22; }
 #c-44-0 { fill: #161b22; }
 #c-44-1 { fill: #161b22; }
 #c-44-2 { fill: #161b22; }
-#c-44-3 { fill: #14532d; }
+#c-44-3 { fill: #161b22; }
 #c-44-4 { fill: #161b22; }
 #c-44-5 { fill: #161b22; }
 #c-44-6 { fill: #161b22; }
@@ -360,132 +360,132 @@
 #c-50-6 { fill: #161b22; }
 #c-51-0 { fill: #161b22; }
 #c-51-1 { fill: #161b22; }
-#c-51-2 { fill: #161b22; }
-#c-51-3 { fill: #161b22; }
+#c-51-2 { fill: #4ade80; }
+#c-51-3 { fill: #14532d; }
 #c-51-4 { fill: #161b22; }
 #c-51-5 { fill: #161b22; }
 #c-51-6 { fill: #161b22; }
 #c-52-0 { fill: #161b22; }
 #c-52-1 { fill: #161b22; }
-#c-52-2 { fill: #4ade80; }
-#c-52-3 { fill: #14532d; }
+#c-52-2 { fill: #161b22; }
+#c-52-3 { fill: #161b22; }
 #c-52-4 { fill: #161b22; }
 #c-52-5 { fill: #161b22; }
 #c-52-6 { fill: #161b22; }
-@keyframes eat-9-3 { 0% { fill: #14532d; } 8.511% { fill: #14532d; } 8.611% { fill: #161b22; } 100% { fill: #161b22; } }
-#c-9-3 { animation: eat-9-3 31.02s linear infinite; }
-@keyframes eat-12-3 { 0% { fill: #14532d; } 10.638% { fill: #14532d; } 10.738% { fill: #161b22; } 100% { fill: #161b22; } }
-#c-12-3 { animation: eat-12-3 31.02s linear infinite; }
-@keyframes eat-12-4 { 0% { fill: #14532d; } 11.348% { fill: #14532d; } 11.448% { fill: #161b22; } 100% { fill: #161b22; } }
-#c-12-4 { animation: eat-12-4 31.02s linear infinite; }
-@keyframes eat-13-4 { 0% { fill: #14532d; } 12.057% { fill: #14532d; } 12.157% { fill: #161b22; } 100% { fill: #161b22; } }
-#c-13-4 { animation: eat-13-4 31.02s linear infinite; }
-@keyframes eat-15-4 { 0% { fill: #14532d; } 13.475% { fill: #14532d; } 13.575% { fill: #161b22; } 100% { fill: #161b22; } }
-#c-15-4 { animation: eat-15-4 31.02s linear infinite; }
-@keyframes eat-16-4 { 0% { fill: #14532d; } 14.184% { fill: #14532d; } 14.284% { fill: #161b22; } 100% { fill: #161b22; } }
-#c-16-4 { animation: eat-16-4 31.02s linear infinite; }
-@keyframes eat-17-3 { 0% { fill: #14532d; } 15.603% { fill: #14532d; } 15.703% { fill: #161b22; } 100% { fill: #161b22; } }
-#c-17-3 { animation: eat-17-3 31.02s linear infinite; }
-@keyframes eat-18-3 { 0% { fill: #14532d; } 16.312% { fill: #14532d; } 16.412% { fill: #161b22; } 100% { fill: #161b22; } }
-#c-18-3 { animation: eat-18-3 31.02s linear infinite; }
-@keyframes eat-19-4 { 0% { fill: #14532d; } 17.730% { fill: #14532d; } 17.830% { fill: #161b22; } 100% { fill: #161b22; } }
-#c-19-4 { animation: eat-19-4 31.02s linear infinite; }
-@keyframes eat-20-4 { 0% { fill: #14532d; } 18.440% { fill: #14532d; } 18.540% { fill: #161b22; } 100% { fill: #161b22; } }
-#c-20-4 { animation: eat-20-4 31.02s linear infinite; }
-@keyframes eat-20-2 { 0% { fill: #14532d; } 19.858% { fill: #14532d; } 19.958% { fill: #161b22; } 100% { fill: #161b22; } }
-#c-20-2 { animation: eat-20-2 31.02s linear infinite; }
-@keyframes eat-19-1 { 0% { fill: #14532d; } 21.277% { fill: #14532d; } 21.377% { fill: #161b22; } 100% { fill: #161b22; } }
-#c-19-1 { animation: eat-19-1 31.02s linear infinite; }
-@keyframes eat-16-1 { 0% { fill: #14532d; } 23.404% { fill: #14532d; } 23.504% { fill: #161b22; } 100% { fill: #161b22; } }
-#c-16-1 { animation: eat-16-1 31.02s linear infinite; }
-@keyframes eat-16-2 { 0% { fill: #14532d; } 24.113% { fill: #14532d; } 24.213% { fill: #161b22; } 100% { fill: #161b22; } }
-#c-16-2 { animation: eat-16-2 31.02s linear infinite; }
-@keyframes eat-15-3 { 0% { fill: #14532d; } 25.532% { fill: #14532d; } 25.632% { fill: #161b22; } 100% { fill: #161b22; } }
-#c-15-3 { animation: eat-15-3 31.02s linear infinite; }
-@keyframes eat-14-3 { 0% { fill: #14532d; } 26.241% { fill: #14532d; } 26.341% { fill: #161b22; } 100% { fill: #161b22; } }
-#c-14-3 { animation: eat-14-3 31.02s linear infinite; }
-@keyframes eat-13-2 { 0% { fill: #14532d; } 27.660% { fill: #14532d; } 27.760% { fill: #161b22; } 100% { fill: #161b22; } }
-#c-13-2 { animation: eat-13-2 31.02s linear infinite; }
-@keyframes eat-12-2 { 0% { fill: #14532d; } 28.369% { fill: #14532d; } 28.469% { fill: #161b22; } 100% { fill: #161b22; } }
-#c-12-2 { animation: eat-12-2 31.02s linear infinite; }
-@keyframes eat-14-5 { 0% { fill: #14532d; } 31.915% { fill: #14532d; } 32.015% { fill: #161b22; } 100% { fill: #161b22; } }
-#c-14-5 { animation: eat-14-5 31.02s linear infinite; }
-@keyframes eat-15-5 { 0% { fill: #14532d; } 32.624% { fill: #14532d; } 32.724% { fill: #161b22; } 100% { fill: #161b22; } }
-#c-15-5 { animation: eat-15-5 31.02s linear infinite; }
-@keyframes eat-22-5 { 0% { fill: #14532d; } 37.589% { fill: #14532d; } 37.689% { fill: #161b22; } 100% { fill: #161b22; } }
-#c-22-5 { animation: eat-22-5 31.02s linear infinite; }
-@keyframes eat-23-4 { 0% { fill: #14532d; } 39.007% { fill: #14532d; } 39.107% { fill: #161b22; } 100% { fill: #161b22; } }
-#c-23-4 { animation: eat-23-4 31.02s linear infinite; }
-@keyframes eat-24-1 { 0% { fill: #14532d; } 41.844% { fill: #14532d; } 41.944% { fill: #161b22; } 100% { fill: #161b22; } }
-#c-24-1 { animation: eat-24-1 31.02s linear infinite; }
-@keyframes eat-32-1 { 0% { fill: #14532d; } 47.518% { fill: #14532d; } 47.618% { fill: #161b22; } 100% { fill: #161b22; } }
-#c-32-1 { animation: eat-32-1 31.02s linear infinite; }
-@keyframes eat-33-1 { 0% { fill: #14532d; } 48.227% { fill: #14532d; } 48.327% { fill: #161b22; } 100% { fill: #161b22; } }
-#c-33-1 { animation: eat-33-1 31.02s linear infinite; }
-@keyframes eat-34-1 { 0% { fill: #14532d; } 48.936% { fill: #14532d; } 49.036% { fill: #161b22; } 100% { fill: #161b22; } }
-#c-34-1 { animation: eat-34-1 31.02s linear infinite; }
-@keyframes eat-35-2 { 0% { fill: #14532d; } 50.355% { fill: #14532d; } 50.455% { fill: #161b22; } 100% { fill: #161b22; } }
-#c-35-2 { animation: eat-35-2 31.02s linear infinite; }
-@keyframes eat-36-2 { 0% { fill: #14532d; } 51.064% { fill: #14532d; } 51.164% { fill: #161b22; } 100% { fill: #161b22; } }
-#c-36-2 { animation: eat-36-2 31.02s linear infinite; }
-@keyframes eat-36-3 { 0% { fill: #14532d; } 51.773% { fill: #14532d; } 51.873% { fill: #161b22; } 100% { fill: #161b22; } }
-#c-36-3 { animation: eat-36-3 31.02s linear infinite; }
-@keyframes eat-35-3 { 0% { fill: #14532d; } 52.482% { fill: #14532d; } 52.582% { fill: #161b22; } 100% { fill: #161b22; } }
-#c-35-3 { animation: eat-35-3 31.02s linear infinite; }
-@keyframes eat-36-4 { 0% { fill: #14532d; } 53.901% { fill: #14532d; } 54.001% { fill: #161b22; } 100% { fill: #161b22; } }
-#c-36-4 { animation: eat-36-4 31.02s linear infinite; }
-@keyframes eat-38-4 { 0% { fill: #14532d; } 55.319% { fill: #14532d; } 55.419% { fill: #161b22; } 100% { fill: #161b22; } }
-#c-38-4 { animation: eat-38-4 31.02s linear infinite; }
-@keyframes eat-39-4 { 0% { fill: #14532d; } 56.028% { fill: #14532d; } 56.128% { fill: #161b22; } 100% { fill: #161b22; } }
-#c-39-4 { animation: eat-39-4 31.02s linear infinite; }
-@keyframes eat-41-4 { 0% { fill: #14532d; } 57.447% { fill: #14532d; } 57.547% { fill: #161b22; } 100% { fill: #161b22; } }
-#c-41-4 { animation: eat-41-4 31.02s linear infinite; }
-@keyframes eat-41-3 { 0% { fill: #14532d; } 58.156% { fill: #14532d; } 58.256% { fill: #161b22; } 100% { fill: #161b22; } }
-#c-41-3 { animation: eat-41-3 31.02s linear infinite; }
-@keyframes eat-40-3 { 0% { fill: #4ade80; } 58.865% { fill: #4ade80; } 58.965% { fill: #161b22; } 100% { fill: #161b22; } }
-#c-40-3 { animation: eat-40-3 31.02s linear infinite; }
-@keyframes eat-40-2 { 0% { fill: #166534; } 59.574% { fill: #166534; } 59.674% { fill: #161b22; } 100% { fill: #161b22; } }
-#c-40-2 { animation: eat-40-2 31.02s linear infinite; }
-@keyframes eat-41-2 { 0% { fill: #166534; } 60.284% { fill: #166534; } 60.384% { fill: #161b22; } 100% { fill: #161b22; } }
-#c-41-2 { animation: eat-41-2 31.02s linear infinite; }
-@keyframes eat-41-1 { 0% { fill: #14532d; } 60.993% { fill: #14532d; } 61.093% { fill: #161b22; } 100% { fill: #161b22; } }
-#c-41-1 { animation: eat-41-1 31.02s linear infinite; }
-@keyframes eat-40-1 { 0% { fill: #14532d; } 61.702% { fill: #14532d; } 61.802% { fill: #161b22; } 100% { fill: #161b22; } }
-#c-40-1 { animation: eat-40-1 31.02s linear infinite; }
-@keyframes eat-38-1 { 0% { fill: #14532d; } 63.121% { fill: #14532d; } 63.221% { fill: #161b22; } 100% { fill: #161b22; } }
-#c-38-1 { animation: eat-38-1 31.02s linear infinite; }
-@keyframes eat-37-1 { 0% { fill: #166534; } 63.830% { fill: #166534; } 63.930% { fill: #161b22; } 100% { fill: #161b22; } }
-#c-37-1 { animation: eat-37-1 31.02s linear infinite; }
-@keyframes eat-38-3 { 0% { fill: #14532d; } 65.957% { fill: #14532d; } 66.057% { fill: #161b22; } 100% { fill: #161b22; } }
-#c-38-3 { animation: eat-38-3 31.02s linear infinite; }
-@keyframes eat-38-6 { 0% { fill: #14532d; } 68.085% { fill: #14532d; } 68.185% { fill: #161b22; } 100% { fill: #161b22; } }
-#c-38-6 { animation: eat-38-6 31.02s linear infinite; }
-@keyframes eat-39-6 { 0% { fill: #14532d; } 68.794% { fill: #14532d; } 68.894% { fill: #161b22; } 100% { fill: #161b22; } }
-#c-39-6 { animation: eat-39-6 31.02s linear infinite; }
-@keyframes eat-41-6 { 0% { fill: #14532d; } 70.213% { fill: #14532d; } 70.313% { fill: #161b22; } 100% { fill: #161b22; } }
-#c-41-6 { animation: eat-41-6 31.02s linear infinite; }
-@keyframes eat-42-5 { 0% { fill: #14532d; } 71.631% { fill: #14532d; } 71.731% { fill: #161b22; } 100% { fill: #161b22; } }
-#c-42-5 { animation: eat-42-5 31.02s linear infinite; }
-@keyframes eat-44-3 { 0% { fill: #14532d; } 74.468% { fill: #14532d; } 74.568% { fill: #161b22; } 100% { fill: #161b22; } }
-#c-44-3 { animation: eat-44-3 31.02s linear infinite; }
-@keyframes eat-52-3 { 0% { fill: #14532d; } 80.142% { fill: #14532d; } 80.242% { fill: #161b22; } 100% { fill: #161b22; } }
-#c-52-3 { animation: eat-52-3 31.02s linear infinite; }
-@keyframes eat-52-2 { 0% { fill: #4ade80; } 80.851% { fill: #4ade80; } 80.951% { fill: #161b22; } 100% { fill: #161b22; } }
-#c-52-2 { animation: eat-52-2 31.02s linear infinite; }
-@keyframes eat-34-6 { 0% { fill: #16a34a; } 96.454% { fill: #16a34a; } 96.554% { fill: #161b22; } 100% { fill: #161b22; } }
-#c-34-6 { animation: eat-34-6 31.02s linear infinite; }
-@keyframes eat-31-5 { 0% { fill: #14532d; } 99.291% { fill: #14532d; } 99.391% { fill: #161b22; } 100% { fill: #161b22; } }
-#c-31-5 { animation: eat-31-5 31.02s linear infinite; }
-@keyframes snake-head { 0.000% { x: 3px; y: 3px; } 0.709% { x: 17px; y: 3px; } 1.418% { x: 31px; y: 3px; } 2.128% { x: 45px; y: 3px; } 2.837% { x: 59px; y: 3px; } 3.546% { x: 73px; y: 3px; } 4.255% { x: 87px; y: 3px; } 4.965% { x: 101px; y: 3px; } 5.674% { x: 115px; y: 3px; } 6.383% { x: 129px; y: 3px; } 7.092% { x: 129px; y: 17px; } 7.801% { x: 129px; y: 31px; } 8.511% { x: 129px; y: 45px; } 9.220% { x: 143px; y: 45px; } 9.929% { x: 157px; y: 45px; } 10.638% { x: 171px; y: 45px; } 11.348% { x: 171px; y: 59px; } 12.057% { x: 185px; y: 59px; } 12.766% { x: 199px; y: 59px; } 13.475% { x: 213px; y: 59px; } 14.184% { x: 227px; y: 59px; } 14.894% { x: 241px; y: 59px; } 15.603% { x: 241px; y: 45px; } 16.312% { x: 255px; y: 45px; } 17.021% { x: 269px; y: 45px; } 17.730% { x: 269px; y: 59px; } 18.440% { x: 283px; y: 59px; } 19.149% { x: 283px; y: 45px; } 19.858% { x: 283px; y: 31px; } 20.567% { x: 269px; y: 31px; } 21.277% { x: 269px; y: 17px; } 21.986% { x: 255px; y: 17px; } 22.695% { x: 241px; y: 17px; } 23.404% { x: 227px; y: 17px; } 24.113% { x: 227px; y: 31px; } 24.823% { x: 213px; y: 31px; } 25.532% { x: 213px; y: 45px; } 26.241% { x: 199px; y: 45px; } 26.950% { x: 185px; y: 45px; } 27.660% { x: 185px; y: 31px; } 28.369% { x: 171px; y: 31px; } 29.078% { x: 171px; y: 45px; } 29.787% { x: 171px; y: 59px; } 30.496% { x: 185px; y: 59px; } 31.206% { x: 199px; y: 59px; } 31.915% { x: 199px; y: 73px; } 32.624% { x: 213px; y: 73px; } 33.333% { x: 227px; y: 73px; } 34.043% { x: 241px; y: 73px; } 34.752% { x: 255px; y: 73px; } 35.461% { x: 269px; y: 73px; } 36.170% { x: 283px; y: 73px; } 36.879% { x: 297px; y: 73px; } 37.589% { x: 311px; y: 73px; } 38.298% { x: 325px; y: 73px; } 39.007% { x: 325px; y: 59px; } 39.716% { x: 339px; y: 59px; } 40.426% { x: 339px; y: 45px; } 41.135% { x: 339px; y: 31px; } 41.844% { x: 339px; y: 17px; } 42.553% { x: 353px; y: 17px; } 43.262% { x: 367px; y: 17px; } 43.972% { x: 381px; y: 17px; } 44.681% { x: 395px; y: 17px; } 45.390% { x: 409px; y: 17px; } 46.099% { x: 423px; y: 17px; } 46.809% { x: 437px; y: 17px; } 47.518% { x: 451px; y: 17px; } 48.227% { x: 465px; y: 17px; } 48.936% { x: 479px; y: 17px; } 49.645% { x: 493px; y: 17px; } 50.355% { x: 493px; y: 31px; } 51.064% { x: 507px; y: 31px; } 51.773% { x: 507px; y: 45px; } 52.482% { x: 493px; y: 45px; } 53.191% { x: 493px; y: 59px; } 53.901% { x: 507px; y: 59px; } 54.610% { x: 521px; y: 59px; } 55.319% { x: 535px; y: 59px; } 56.028% { x: 549px; y: 59px; } 56.738% { x: 563px; y: 59px; } 57.447% { x: 577px; y: 59px; } 58.156% { x: 577px; y: 45px; } 58.865% { x: 563px; y: 45px; } 59.574% { x: 563px; y: 31px; } 60.284% { x: 577px; y: 31px; } 60.993% { x: 577px; y: 17px; } 61.702% { x: 563px; y: 17px; } 62.411% { x: 549px; y: 17px; } 63.121% { x: 535px; y: 17px; } 63.830% { x: 521px; y: 17px; } 64.539% { x: 521px; y: 31px; } 65.248% { x: 535px; y: 31px; } 65.957% { x: 535px; y: 45px; } 66.667% { x: 535px; y: 59px; } 67.376% { x: 535px; y: 73px; } 68.085% { x: 535px; y: 87px; } 68.794% { x: 549px; y: 87px; } 69.504% { x: 563px; y: 87px; } 70.213% { x: 577px; y: 87px; } 70.922% { x: 591px; y: 87px; } 71.631% { x: 591px; y: 73px; } 72.340% { x: 605px; y: 73px; } 73.050% { x: 619px; y: 73px; } 73.759% { x: 619px; y: 59px; } 74.468% { x: 619px; y: 45px; } 75.177% { x: 633px; y: 45px; } 75.887% { x: 647px; y: 45px; } 76.596% { x: 661px; y: 45px; } 77.305% { x: 675px; y: 45px; } 78.014% { x: 689px; y: 45px; } 78.723% { x: 703px; y: 45px; } 79.433% { x: 717px; y: 45px; } 80.142% { x: 731px; y: 45px; } 80.851% { x: 731px; y: 31px; } 81.560% { x: 717px; y: 31px; } 82.270% { x: 703px; y: 31px; } 82.979% { x: 689px; y: 31px; } 83.688% { x: 675px; y: 31px; } 84.397% { x: 661px; y: 31px; } 85.106% { x: 647px; y: 31px; } 85.816% { x: 633px; y: 31px; } 86.525% { x: 619px; y: 31px; } 87.234% { x: 605px; y: 31px; } 87.943% { x: 591px; y: 31px; } 88.652% { x: 577px; y: 31px; } 89.362% { x: 563px; y: 31px; } 90.071% { x: 549px; y: 31px; } 90.780% { x: 535px; y: 31px; } 91.489% { x: 521px; y: 31px; } 92.199% { x: 507px; y: 31px; } 92.908% { x: 493px; y: 31px; } 93.617% { x: 479px; y: 31px; } 94.326% { x: 479px; y: 45px; } 95.035% { x: 479px; y: 59px; } 95.745% { x: 479px; y: 73px; } 96.454% { x: 479px; y: 87px; } 97.163% { x: 465px; y: 87px; } 97.872% { x: 451px; y: 87px; } 98.582% { x: 437px; y: 87px; } 99.291% { x: 437px; y: 73px; } 100% { x: 437px; y: 73px; } }
-#snake-head { animation: snake-head 31.02s steps(1) infinite; }
-@keyframes snake-body-0 { 0.000% { x: -50px; y: -50px; opacity: 0; } 0.709% { x: -50px; y: -50px; opacity: 0; } 1.418% { x: -50px; y: -50px; opacity: 0; } 2.128% { x: -50px; y: -50px; opacity: 0; } 2.837% { x: 3px; y: 3px; opacity: 1; } 3.546% { x: 17px; y: 3px; opacity: 1; } 4.255% { x: 31px; y: 3px; opacity: 1; } 4.965% { x: 45px; y: 3px; opacity: 1; } 5.674% { x: 59px; y: 3px; opacity: 1; } 6.383% { x: 73px; y: 3px; opacity: 1; } 7.092% { x: 87px; y: 3px; opacity: 1; } 7.801% { x: 101px; y: 3px; opacity: 1; } 8.511% { x: 115px; y: 3px; opacity: 1; } 9.220% { x: 129px; y: 3px; opacity: 1; } 9.929% { x: 129px; y: 17px; opacity: 1; } 10.638% { x: 129px; y: 31px; opacity: 1; } 11.348% { x: 129px; y: 45px; opacity: 1; } 12.057% { x: 143px; y: 45px; opacity: 1; } 12.766% { x: 157px; y: 45px; opacity: 1; } 13.475% { x: 171px; y: 45px; opacity: 1; } 14.184% { x: 171px; y: 59px; opacity: 1; } 14.894% { x: 185px; y: 59px; opacity: 1; } 15.603% { x: 199px; y: 59px; opacity: 1; } 16.312% { x: 213px; y: 59px; opacity: 1; } 17.021% { x: 227px; y: 59px; opacity: 1; } 17.730% { x: 241px; y: 59px; opacity: 1; } 18.440% { x: 241px; y: 45px; opacity: 1; } 19.149% { x: 255px; y: 45px; opacity: 1; } 19.858% { x: 269px; y: 45px; opacity: 1; } 20.567% { x: 269px; y: 59px; opacity: 1; } 21.277% { x: 283px; y: 59px; opacity: 1; } 21.986% { x: 283px; y: 45px; opacity: 1; } 22.695% { x: 283px; y: 31px; opacity: 1; } 23.404% { x: 269px; y: 31px; opacity: 1; } 24.113% { x: 269px; y: 17px; opacity: 1; } 24.823% { x: 255px; y: 17px; opacity: 1; } 25.532% { x: 241px; y: 17px; opacity: 1; } 26.241% { x: 227px; y: 17px; opacity: 1; } 26.950% { x: 227px; y: 31px; opacity: 1; } 27.660% { x: 213px; y: 31px; opacity: 1; } 28.369% { x: 213px; y: 45px; opacity: 1; } 29.078% { x: 199px; y: 45px; opacity: 1; } 29.787% { x: 185px; y: 45px; opacity: 1; } 30.496% { x: 185px; y: 31px; opacity: 1; } 31.206% { x: 171px; y: 31px; opacity: 1; } 31.915% { x: 171px; y: 45px; opacity: 1; } 32.624% { x: 171px; y: 59px; opacity: 1; } 33.333% { x: 185px; y: 59px; opacity: 1; } 34.043% { x: 199px; y: 59px; opacity: 1; } 34.752% { x: 199px; y: 73px; opacity: 1; } 35.461% { x: 213px; y: 73px; opacity: 1; } 36.170% { x: 227px; y: 73px; opacity: 1; } 36.879% { x: 241px; y: 73px; opacity: 1; } 37.589% { x: 255px; y: 73px; opacity: 1; } 38.298% { x: 269px; y: 73px; opacity: 1; } 39.007% { x: 283px; y: 73px; opacity: 1; } 39.716% { x: 297px; y: 73px; opacity: 1; } 40.426% { x: 311px; y: 73px; opacity: 1; } 41.135% { x: 325px; y: 73px; opacity: 1; } 41.844% { x: 325px; y: 59px; opacity: 1; } 42.553% { x: 339px; y: 59px; opacity: 1; } 43.262% { x: 339px; y: 45px; opacity: 1; } 43.972% { x: 339px; y: 31px; opacity: 1; } 44.681% { x: 339px; y: 17px; opacity: 1; } 45.390% { x: 353px; y: 17px; opacity: 1; } 46.099% { x: 367px; y: 17px; opacity: 1; } 46.809% { x: 381px; y: 17px; opacity: 1; } 47.518% { x: 395px; y: 17px; opacity: 1; } 48.227% { x: 409px; y: 17px; opacity: 1; } 48.936% { x: 423px; y: 17px; opacity: 1; } 49.645% { x: 437px; y: 17px; opacity: 1; } 50.355% { x: 451px; y: 17px; opacity: 1; } 51.064% { x: 465px; y: 17px; opacity: 1; } 51.773% { x: 479px; y: 17px; opacity: 1; } 52.482% { x: 493px; y: 17px; opacity: 1; } 53.191% { x: 493px; y: 31px; opacity: 1; } 53.901% { x: 507px; y: 31px; opacity: 1; } 54.610% { x: 507px; y: 45px; opacity: 1; } 55.319% { x: 493px; y: 45px; opacity: 1; } 56.028% { x: 493px; y: 59px; opacity: 1; } 56.738% { x: 507px; y: 59px; opacity: 1; } 57.447% { x: 521px; y: 59px; opacity: 1; } 58.156% { x: 535px; y: 59px; opacity: 1; } 58.865% { x: 549px; y: 59px; opacity: 1; } 59.574% { x: 563px; y: 59px; opacity: 1; } 60.284% { x: 577px; y: 59px; opacity: 1; } 60.993% { x: 577px; y: 45px; opacity: 1; } 61.702% { x: 563px; y: 45px; opacity: 1; } 62.411% { x: 563px; y: 31px; opacity: 1; } 63.121% { x: 577px; y: 31px; opacity: 1; } 63.830% { x: 577px; y: 17px; opacity: 1; } 64.539% { x: 563px; y: 17px; opacity: 1; } 65.248% { x: 549px; y: 17px; opacity: 1; } 65.957% { x: 535px; y: 17px; opacity: 1; } 66.667% { x: 521px; y: 17px; opacity: 1; } 67.376% { x: 521px; y: 31px; opacity: 1; } 68.085% { x: 535px; y: 31px; opacity: 1; } 68.794% { x: 535px; y: 45px; opacity: 1; } 69.504% { x: 535px; y: 59px; opacity: 1; } 70.213% { x: 535px; y: 73px; opacity: 1; } 70.922% { x: 535px; y: 87px; opacity: 1; } 71.631% { x: 549px; y: 87px; opacity: 1; } 72.340% { x: 563px; y: 87px; opacity: 1; } 73.050% { x: 577px; y: 87px; opacity: 1; } 73.759% { x: 591px; y: 87px; opacity: 1; } 74.468% { x: 591px; y: 73px; opacity: 1; } 75.177% { x: 605px; y: 73px; opacity: 1; } 75.887% { x: 619px; y: 73px; opacity: 1; } 76.596% { x: 619px; y: 59px; opacity: 1; } 77.305% { x: 619px; y: 45px; opacity: 1; } 78.014% { x: 633px; y: 45px; opacity: 1; } 78.723% { x: 647px; y: 45px; opacity: 1; } 79.433% { x: 661px; y: 45px; opacity: 1; } 80.142% { x: 675px; y: 45px; opacity: 1; } 80.851% { x: 689px; y: 45px; opacity: 1; } 81.560% { x: 703px; y: 45px; opacity: 1; } 82.270% { x: 717px; y: 45px; opacity: 1; } 82.979% { x: 731px; y: 45px; opacity: 1; } 83.688% { x: 731px; y: 31px; opacity: 1; } 84.397% { x: 717px; y: 31px; opacity: 1; } 85.106% { x: 703px; y: 31px; opacity: 1; } 85.816% { x: 689px; y: 31px; opacity: 1; } 86.525% { x: 675px; y: 31px; opacity: 1; } 87.234% { x: 661px; y: 31px; opacity: 1; } 87.943% { x: 647px; y: 31px; opacity: 1; } 88.652% { x: 633px; y: 31px; opacity: 1; } 89.362% { x: 619px; y: 31px; opacity: 1; } 90.071% { x: 605px; y: 31px; opacity: 1; } 90.780% { x: 591px; y: 31px; opacity: 1; } 91.489% { x: 577px; y: 31px; opacity: 1; } 92.199% { x: 563px; y: 31px; opacity: 1; } 92.908% { x: 549px; y: 31px; opacity: 1; } 93.617% { x: 535px; y: 31px; opacity: 1; } 94.326% { x: 521px; y: 31px; opacity: 1; } 95.035% { x: 507px; y: 31px; opacity: 1; } 95.745% { x: 493px; y: 31px; opacity: 1; } 96.454% { x: 479px; y: 31px; opacity: 1; } 97.163% { x: 479px; y: 45px; opacity: 1; } 97.872% { x: 479px; y: 59px; opacity: 1; } 98.582% { x: 479px; y: 73px; opacity: 1; } 99.291% { x: 479px; y: 87px; opacity: 1; } }
-#snake-body-0 { animation: snake-body-0 31.02s steps(1) infinite; }
-@keyframes snake-body-1 { 0.000% { x: -50px; y: -50px; opacity: 0; } 0.709% { x: -50px; y: -50px; opacity: 0; } 1.418% { x: -50px; y: -50px; opacity: 0; } 2.128% { x: 3px; y: 3px; opacity: 1; } 2.837% { x: 17px; y: 3px; opacity: 1; } 3.546% { x: 31px; y: 3px; opacity: 1; } 4.255% { x: 45px; y: 3px; opacity: 1; } 4.965% { x: 59px; y: 3px; opacity: 1; } 5.674% { x: 73px; y: 3px; opacity: 1; } 6.383% { x: 87px; y: 3px; opacity: 1; } 7.092% { x: 101px; y: 3px; opacity: 1; } 7.801% { x: 115px; y: 3px; opacity: 1; } 8.511% { x: 129px; y: 3px; opacity: 1; } 9.220% { x: 129px; y: 17px; opacity: 1; } 9.929% { x: 129px; y: 31px; opacity: 1; } 10.638% { x: 129px; y: 45px; opacity: 1; } 11.348% { x: 143px; y: 45px; opacity: 1; } 12.057% { x: 157px; y: 45px; opacity: 1; } 12.766% { x: 171px; y: 45px; opacity: 1; } 13.475% { x: 171px; y: 59px; opacity: 1; } 14.184% { x: 185px; y: 59px; opacity: 1; } 14.894% { x: 199px; y: 59px; opacity: 1; } 15.603% { x: 213px; y: 59px; opacity: 1; } 16.312% { x: 227px; y: 59px; opacity: 1; } 17.021% { x: 241px; y: 59px; opacity: 1; } 17.730% { x: 241px; y: 45px; opacity: 1; } 18.440% { x: 255px; y: 45px; opacity: 1; } 19.149% { x: 269px; y: 45px; opacity: 1; } 19.858% { x: 269px; y: 59px; opacity: 1; } 20.567% { x: 283px; y: 59px; opacity: 1; } 21.277% { x: 283px; y: 45px; opacity: 1; } 21.986% { x: 283px; y: 31px; opacity: 1; } 22.695% { x: 269px; y: 31px; opacity: 1; } 23.404% { x: 269px; y: 17px; opacity: 1; } 24.113% { x: 255px; y: 17px; opacity: 1; } 24.823% { x: 241px; y: 17px; opacity: 1; } 25.532% { x: 227px; y: 17px; opacity: 1; } 26.241% { x: 227px; y: 31px; opacity: 1; } 26.950% { x: 213px; y: 31px; opacity: 1; } 27.660% { x: 213px; y: 45px; opacity: 1; } 28.369% { x: 199px; y: 45px; opacity: 1; } 29.078% { x: 185px; y: 45px; opacity: 1; } 29.787% { x: 185px; y: 31px; opacity: 1; } 30.496% { x: 171px; y: 31px; opacity: 1; } 31.206% { x: 171px; y: 45px; opacity: 1; } 31.915% { x: 171px; y: 59px; opacity: 1; } 32.624% { x: 185px; y: 59px; opacity: 1; } 33.333% { x: 199px; y: 59px; opacity: 1; } 34.043% { x: 199px; y: 73px; opacity: 1; } 34.752% { x: 213px; y: 73px; opacity: 1; } 35.461% { x: 227px; y: 73px; opacity: 1; } 36.170% { x: 241px; y: 73px; opacity: 1; } 36.879% { x: 255px; y: 73px; opacity: 1; } 37.589% { x: 269px; y: 73px; opacity: 1; } 38.298% { x: 283px; y: 73px; opacity: 1; } 39.007% { x: 297px; y: 73px; opacity: 1; } 39.716% { x: 311px; y: 73px; opacity: 1; } 40.426% { x: 325px; y: 73px; opacity: 1; } 41.135% { x: 325px; y: 59px; opacity: 1; } 41.844% { x: 339px; y: 59px; opacity: 1; } 42.553% { x: 339px; y: 45px; opacity: 1; } 43.262% { x: 339px; y: 31px; opacity: 1; } 43.972% { x: 339px; y: 17px; opacity: 1; } 44.681% { x: 353px; y: 17px; opacity: 1; } 45.390% { x: 367px; y: 17px; opacity: 1; } 46.099% { x: 381px; y: 17px; opacity: 1; } 46.809% { x: 395px; y: 17px; opacity: 1; } 47.518% { x: 409px; y: 17px; opacity: 1; } 48.227% { x: 423px; y: 17px; opacity: 1; } 48.936% { x: 437px; y: 17px; opacity: 1; } 49.645% { x: 451px; y: 17px; opacity: 1; } 50.355% { x: 465px; y: 17px; opacity: 1; } 51.064% { x: 479px; y: 17px; opacity: 1; } 51.773% { x: 493px; y: 17px; opacity: 1; } 52.482% { x: 493px; y: 31px; opacity: 1; } 53.191% { x: 507px; y: 31px; opacity: 1; } 53.901% { x: 507px; y: 45px; opacity: 1; } 54.610% { x: 493px; y: 45px; opacity: 1; } 55.319% { x: 493px; y: 59px; opacity: 1; } 56.028% { x: 507px; y: 59px; opacity: 1; } 56.738% { x: 521px; y: 59px; opacity: 1; } 57.447% { x: 535px; y: 59px; opacity: 1; } 58.156% { x: 549px; y: 59px; opacity: 1; } 58.865% { x: 563px; y: 59px; opacity: 1; } 59.574% { x: 577px; y: 59px; opacity: 1; } 60.284% { x: 577px; y: 45px; opacity: 1; } 60.993% { x: 563px; y: 45px; opacity: 1; } 61.702% { x: 563px; y: 31px; opacity: 1; } 62.411% { x: 577px; y: 31px; opacity: 1; } 63.121% { x: 577px; y: 17px; opacity: 1; } 63.830% { x: 563px; y: 17px; opacity: 1; } 64.539% { x: 549px; y: 17px; opacity: 1; } 65.248% { x: 535px; y: 17px; opacity: 1; } 65.957% { x: 521px; y: 17px; opacity: 1; } 66.667% { x: 521px; y: 31px; opacity: 1; } 67.376% { x: 535px; y: 31px; opacity: 1; } 68.085% { x: 535px; y: 45px; opacity: 1; } 68.794% { x: 535px; y: 59px; opacity: 1; } 69.504% { x: 535px; y: 73px; opacity: 1; } 70.213% { x: 535px; y: 87px; opacity: 1; } 70.922% { x: 549px; y: 87px; opacity: 1; } 71.631% { x: 563px; y: 87px; opacity: 1; } 72.340% { x: 577px; y: 87px; opacity: 1; } 73.050% { x: 591px; y: 87px; opacity: 1; } 73.759% { x: 591px; y: 73px; opacity: 1; } 74.468% { x: 605px; y: 73px; opacity: 1; } 75.177% { x: 619px; y: 73px; opacity: 1; } 75.887% { x: 619px; y: 59px; opacity: 1; } 76.596% { x: 619px; y: 45px; opacity: 1; } 77.305% { x: 633px; y: 45px; opacity: 1; } 78.014% { x: 647px; y: 45px; opacity: 1; } 78.723% { x: 661px; y: 45px; opacity: 1; } 79.433% { x: 675px; y: 45px; opacity: 1; } 80.142% { x: 689px; y: 45px; opacity: 1; } 80.851% { x: 703px; y: 45px; opacity: 1; } 81.560% { x: 717px; y: 45px; opacity: 1; } 82.270% { x: 731px; y: 45px; opacity: 1; } 82.979% { x: 731px; y: 31px; opacity: 1; } 83.688% { x: 717px; y: 31px; opacity: 1; } 84.397% { x: 703px; y: 31px; opacity: 1; } 85.106% { x: 689px; y: 31px; opacity: 1; } 85.816% { x: 675px; y: 31px; opacity: 1; } 86.525% { x: 661px; y: 31px; opacity: 1; } 87.234% { x: 647px; y: 31px; opacity: 1; } 87.943% { x: 633px; y: 31px; opacity: 1; } 88.652% { x: 619px; y: 31px; opacity: 1; } 89.362% { x: 605px; y: 31px; opacity: 1; } 90.071% { x: 591px; y: 31px; opacity: 1; } 90.780% { x: 577px; y: 31px; opacity: 1; } 91.489% { x: 563px; y: 31px; opacity: 1; } 92.199% { x: 549px; y: 31px; opacity: 1; } 92.908% { x: 535px; y: 31px; opacity: 1; } 93.617% { x: 521px; y: 31px; opacity: 1; } 94.326% { x: 507px; y: 31px; opacity: 1; } 95.035% { x: 493px; y: 31px; opacity: 1; } 95.745% { x: 479px; y: 31px; opacity: 1; } 96.454% { x: 479px; y: 45px; opacity: 1; } 97.163% { x: 479px; y: 59px; opacity: 1; } 97.872% { x: 479px; y: 73px; opacity: 1; } 98.582% { x: 479px; y: 87px; opacity: 1; } 99.291% { x: 465px; y: 87px; opacity: 1; } }
-#snake-body-1 { animation: snake-body-1 31.02s steps(1) infinite; }
-@keyframes snake-body-2 { 0.000% { x: -50px; y: -50px; opacity: 0; } 0.709% { x: -50px; y: -50px; opacity: 0; } 1.418% { x: 3px; y: 3px; opacity: 1; } 2.128% { x: 17px; y: 3px; opacity: 1; } 2.837% { x: 31px; y: 3px; opacity: 1; } 3.546% { x: 45px; y: 3px; opacity: 1; } 4.255% { x: 59px; y: 3px; opacity: 1; } 4.965% { x: 73px; y: 3px; opacity: 1; } 5.674% { x: 87px; y: 3px; opacity: 1; } 6.383% { x: 101px; y: 3px; opacity: 1; } 7.092% { x: 115px; y: 3px; opacity: 1; } 7.801% { x: 129px; y: 3px; opacity: 1; } 8.511% { x: 129px; y: 17px; opacity: 1; } 9.220% { x: 129px; y: 31px; opacity: 1; } 9.929% { x: 129px; y: 45px; opacity: 1; } 10.638% { x: 143px; y: 45px; opacity: 1; } 11.348% { x: 157px; y: 45px; opacity: 1; } 12.057% { x: 171px; y: 45px; opacity: 1; } 12.766% { x: 171px; y: 59px; opacity: 1; } 13.475% { x: 185px; y: 59px; opacity: 1; } 14.184% { x: 199px; y: 59px; opacity: 1; } 14.894% { x: 213px; y: 59px; opacity: 1; } 15.603% { x: 227px; y: 59px; opacity: 1; } 16.312% { x: 241px; y: 59px; opacity: 1; } 17.021% { x: 241px; y: 45px; opacity: 1; } 17.730% { x: 255px; y: 45px; opacity: 1; } 18.440% { x: 269px; y: 45px; opacity: 1; } 19.149% { x: 269px; y: 59px; opacity: 1; } 19.858% { x: 283px; y: 59px; opacity: 1; } 20.567% { x: 283px; y: 45px; opacity: 1; } 21.277% { x: 283px; y: 31px; opacity: 1; } 21.986% { x: 269px; y: 31px; opacity: 1; } 22.695% { x: 269px; y: 17px; opacity: 1; } 23.404% { x: 255px; y: 17px; opacity: 1; } 24.113% { x: 241px; y: 17px; opacity: 1; } 24.823% { x: 227px; y: 17px; opacity: 1; } 25.532% { x: 227px; y: 31px; opacity: 1; } 26.241% { x: 213px; y: 31px; opacity: 1; } 26.950% { x: 213px; y: 45px; opacity: 1; } 27.660% { x: 199px; y: 45px; opacity: 1; } 28.369% { x: 185px; y: 45px; opacity: 1; } 29.078% { x: 185px; y: 31px; opacity: 1; } 29.787% { x: 171px; y: 31px; opacity: 1; } 30.496% { x: 171px; y: 45px; opacity: 1; } 31.206% { x: 171px; y: 59px; opacity: 1; } 31.915% { x: 185px; y: 59px; opacity: 1; } 32.624% { x: 199px; y: 59px; opacity: 1; } 33.333% { x: 199px; y: 73px; opacity: 1; } 34.043% { x: 213px; y: 73px; opacity: 1; } 34.752% { x: 227px; y: 73px; opacity: 1; } 35.461% { x: 241px; y: 73px; opacity: 1; } 36.170% { x: 255px; y: 73px; opacity: 1; } 36.879% { x: 269px; y: 73px; opacity: 1; } 37.589% { x: 283px; y: 73px; opacity: 1; } 38.298% { x: 297px; y: 73px; opacity: 1; } 39.007% { x: 311px; y: 73px; opacity: 1; } 39.716% { x: 325px; y: 73px; opacity: 1; } 40.426% { x: 325px; y: 59px; opacity: 1; } 41.135% { x: 339px; y: 59px; opacity: 1; } 41.844% { x: 339px; y: 45px; opacity: 1; } 42.553% { x: 339px; y: 31px; opacity: 1; } 43.262% { x: 339px; y: 17px; opacity: 1; } 43.972% { x: 353px; y: 17px; opacity: 1; } 44.681% { x: 367px; y: 17px; opacity: 1; } 45.390% { x: 381px; y: 17px; opacity: 1; } 46.099% { x: 395px; y: 17px; opacity: 1; } 46.809% { x: 409px; y: 17px; opacity: 1; } 47.518% { x: 423px; y: 17px; opacity: 1; } 48.227% { x: 437px; y: 17px; opacity: 1; } 48.936% { x: 451px; y: 17px; opacity: 1; } 49.645% { x: 465px; y: 17px; opacity: 1; } 50.355% { x: 479px; y: 17px; opacity: 1; } 51.064% { x: 493px; y: 17px; opacity: 1; } 51.773% { x: 493px; y: 31px; opacity: 1; } 52.482% { x: 507px; y: 31px; opacity: 1; } 53.191% { x: 507px; y: 45px; opacity: 1; } 53.901% { x: 493px; y: 45px; opacity: 1; } 54.610% { x: 493px; y: 59px; opacity: 1; } 55.319% { x: 507px; y: 59px; opacity: 1; } 56.028% { x: 521px; y: 59px; opacity: 1; } 56.738% { x: 535px; y: 59px; opacity: 1; } 57.447% { x: 549px; y: 59px; opacity: 1; } 58.156% { x: 563px; y: 59px; opacity: 1; } 58.865% { x: 577px; y: 59px; opacity: 1; } 59.574% { x: 577px; y: 45px; opacity: 1; } 60.284% { x: 563px; y: 45px; opacity: 1; } 60.993% { x: 563px; y: 31px; opacity: 1; } 61.702% { x: 577px; y: 31px; opacity: 1; } 62.411% { x: 577px; y: 17px; opacity: 1; } 63.121% { x: 563px; y: 17px; opacity: 1; } 63.830% { x: 549px; y: 17px; opacity: 1; } 64.539% { x: 535px; y: 17px; opacity: 1; } 65.248% { x: 521px; y: 17px; opacity: 1; } 65.957% { x: 521px; y: 31px; opacity: 1; } 66.667% { x: 535px; y: 31px; opacity: 1; } 67.376% { x: 535px; y: 45px; opacity: 1; } 68.085% { x: 535px; y: 59px; opacity: 1; } 68.794% { x: 535px; y: 73px; opacity: 1; } 69.504% { x: 535px; y: 87px; opacity: 1; } 70.213% { x: 549px; y: 87px; opacity: 1; } 70.922% { x: 563px; y: 87px; opacity: 1; } 71.631% { x: 577px; y: 87px; opacity: 1; } 72.340% { x: 591px; y: 87px; opacity: 1; } 73.050% { x: 591px; y: 73px; opacity: 1; } 73.759% { x: 605px; y: 73px; opacity: 1; } 74.468% { x: 619px; y: 73px; opacity: 1; } 75.177% { x: 619px; y: 59px; opacity: 1; } 75.887% { x: 619px; y: 45px; opacity: 1; } 76.596% { x: 633px; y: 45px; opacity: 1; } 77.305% { x: 647px; y: 45px; opacity: 1; } 78.014% { x: 661px; y: 45px; opacity: 1; } 78.723% { x: 675px; y: 45px; opacity: 1; } 79.433% { x: 689px; y: 45px; opacity: 1; } 80.142% { x: 703px; y: 45px; opacity: 1; } 80.851% { x: 717px; y: 45px; opacity: 1; } 81.560% { x: 731px; y: 45px; opacity: 1; } 82.270% { x: 731px; y: 31px; opacity: 1; } 82.979% { x: 717px; y: 31px; opacity: 1; } 83.688% { x: 703px; y: 31px; opacity: 1; } 84.397% { x: 689px; y: 31px; opacity: 1; } 85.106% { x: 675px; y: 31px; opacity: 1; } 85.816% { x: 661px; y: 31px; opacity: 1; } 86.525% { x: 647px; y: 31px; opacity: 1; } 87.234% { x: 633px; y: 31px; opacity: 1; } 87.943% { x: 619px; y: 31px; opacity: 1; } 88.652% { x: 605px; y: 31px; opacity: 1; } 89.362% { x: 591px; y: 31px; opacity: 1; } 90.071% { x: 577px; y: 31px; opacity: 1; } 90.780% { x: 563px; y: 31px; opacity: 1; } 91.489% { x: 549px; y: 31px; opacity: 1; } 92.199% { x: 535px; y: 31px; opacity: 1; } 92.908% { x: 521px; y: 31px; opacity: 1; } 93.617% { x: 507px; y: 31px; opacity: 1; } 94.326% { x: 493px; y: 31px; opacity: 1; } 95.035% { x: 479px; y: 31px; opacity: 1; } 95.745% { x: 479px; y: 45px; opacity: 1; } 96.454% { x: 479px; y: 59px; opacity: 1; } 97.163% { x: 479px; y: 73px; opacity: 1; } 97.872% { x: 479px; y: 87px; opacity: 1; } 98.582% { x: 465px; y: 87px; opacity: 1; } 99.291% { x: 451px; y: 87px; opacity: 1; } }
-#snake-body-2 { animation: snake-body-2 31.02s steps(1) infinite; }
-@keyframes snake-body-3 { 0.000% { x: -50px; y: -50px; opacity: 0; } 0.709% { x: 3px; y: 3px; opacity: 1; } 1.418% { x: 17px; y: 3px; opacity: 1; } 2.128% { x: 31px; y: 3px; opacity: 1; } 2.837% { x: 45px; y: 3px; opacity: 1; } 3.546% { x: 59px; y: 3px; opacity: 1; } 4.255% { x: 73px; y: 3px; opacity: 1; } 4.965% { x: 87px; y: 3px; opacity: 1; } 5.674% { x: 101px; y: 3px; opacity: 1; } 6.383% { x: 115px; y: 3px; opacity: 1; } 7.092% { x: 129px; y: 3px; opacity: 1; } 7.801% { x: 129px; y: 17px; opacity: 1; } 8.511% { x: 129px; y: 31px; opacity: 1; } 9.220% { x: 129px; y: 45px; opacity: 1; } 9.929% { x: 143px; y: 45px; opacity: 1; } 10.638% { x: 157px; y: 45px; opacity: 1; } 11.348% { x: 171px; y: 45px; opacity: 1; } 12.057% { x: 171px; y: 59px; opacity: 1; } 12.766% { x: 185px; y: 59px; opacity: 1; } 13.475% { x: 199px; y: 59px; opacity: 1; } 14.184% { x: 213px; y: 59px; opacity: 1; } 14.894% { x: 227px; y: 59px; opacity: 1; } 15.603% { x: 241px; y: 59px; opacity: 1; } 16.312% { x: 241px; y: 45px; opacity: 1; } 17.021% { x: 255px; y: 45px; opacity: 1; } 17.730% { x: 269px; y: 45px; opacity: 1; } 18.440% { x: 269px; y: 59px; opacity: 1; } 19.149% { x: 283px; y: 59px; opacity: 1; } 19.858% { x: 283px; y: 45px; opacity: 1; } 20.567% { x: 283px; y: 31px; opacity: 1; } 21.277% { x: 269px; y: 31px; opacity: 1; } 21.986% { x: 269px; y: 17px; opacity: 1; } 22.695% { x: 255px; y: 17px; opacity: 1; } 23.404% { x: 241px; y: 17px; opacity: 1; } 24.113% { x: 227px; y: 17px; opacity: 1; } 24.823% { x: 227px; y: 31px; opacity: 1; } 25.532% { x: 213px; y: 31px; opacity: 1; } 26.241% { x: 213px; y: 45px; opacity: 1; } 26.950% { x: 199px; y: 45px; opacity: 1; } 27.660% { x: 185px; y: 45px; opacity: 1; } 28.369% { x: 185px; y: 31px; opacity: 1; } 29.078% { x: 171px; y: 31px; opacity: 1; } 29.787% { x: 171px; y: 45px; opacity: 1; } 30.496% { x: 171px; y: 59px; opacity: 1; } 31.206% { x: 185px; y: 59px; opacity: 1; } 31.915% { x: 199px; y: 59px; opacity: 1; } 32.624% { x: 199px; y: 73px; opacity: 1; } 33.333% { x: 213px; y: 73px; opacity: 1; } 34.043% { x: 227px; y: 73px; opacity: 1; } 34.752% { x: 241px; y: 73px; opacity: 1; } 35.461% { x: 255px; y: 73px; opacity: 1; } 36.170% { x: 269px; y: 73px; opacity: 1; } 36.879% { x: 283px; y: 73px; opacity: 1; } 37.589% { x: 297px; y: 73px; opacity: 1; } 38.298% { x: 311px; y: 73px; opacity: 1; } 39.007% { x: 325px; y: 73px; opacity: 1; } 39.716% { x: 325px; y: 59px; opacity: 1; } 40.426% { x: 339px; y: 59px; opacity: 1; } 41.135% { x: 339px; y: 45px; opacity: 1; } 41.844% { x: 339px; y: 31px; opacity: 1; } 42.553% { x: 339px; y: 17px; opacity: 1; } 43.262% { x: 353px; y: 17px; opacity: 1; } 43.972% { x: 367px; y: 17px; opacity: 1; } 44.681% { x: 381px; y: 17px; opacity: 1; } 45.390% { x: 395px; y: 17px; opacity: 1; } 46.099% { x: 409px; y: 17px; opacity: 1; } 46.809% { x: 423px; y: 17px; opacity: 1; } 47.518% { x: 437px; y: 17px; opacity: 1; } 48.227% { x: 451px; y: 17px; opacity: 1; } 48.936% { x: 465px; y: 17px; opacity: 1; } 49.645% { x: 479px; y: 17px; opacity: 1; } 50.355% { x: 493px; y: 17px; opacity: 1; } 51.064% { x: 493px; y: 31px; opacity: 1; } 51.773% { x: 507px; y: 31px; opacity: 1; } 52.482% { x: 507px; y: 45px; opacity: 1; } 53.191% { x: 493px; y: 45px; opacity: 1; } 53.901% { x: 493px; y: 59px; opacity: 1; } 54.610% { x: 507px; y: 59px; opacity: 1; } 55.319% { x: 521px; y: 59px; opacity: 1; } 56.028% { x: 535px; y: 59px; opacity: 1; } 56.738% { x: 549px; y: 59px; opacity: 1; } 57.447% { x: 563px; y: 59px; opacity: 1; } 58.156% { x: 577px; y: 59px; opacity: 1; } 58.865% { x: 577px; y: 45px; opacity: 1; } 59.574% { x: 563px; y: 45px; opacity: 1; } 60.284% { x: 563px; y: 31px; opacity: 1; } 60.993% { x: 577px; y: 31px; opacity: 1; } 61.702% { x: 577px; y: 17px; opacity: 1; } 62.411% { x: 563px; y: 17px; opacity: 1; } 63.121% { x: 549px; y: 17px; opacity: 1; } 63.830% { x: 535px; y: 17px; opacity: 1; } 64.539% { x: 521px; y: 17px; opacity: 1; } 65.248% { x: 521px; y: 31px; opacity: 1; } 65.957% { x: 535px; y: 31px; opacity: 1; } 66.667% { x: 535px; y: 45px; opacity: 1; } 67.376% { x: 535px; y: 59px; opacity: 1; } 68.085% { x: 535px; y: 73px; opacity: 1; } 68.794% { x: 535px; y: 87px; opacity: 1; } 69.504% { x: 549px; y: 87px; opacity: 1; } 70.213% { x: 563px; y: 87px; opacity: 1; } 70.922% { x: 577px; y: 87px; opacity: 1; } 71.631% { x: 591px; y: 87px; opacity: 1; } 72.340% { x: 591px; y: 73px; opacity: 1; } 73.050% { x: 605px; y: 73px; opacity: 1; } 73.759% { x: 619px; y: 73px; opacity: 1; } 74.468% { x: 619px; y: 59px; opacity: 1; } 75.177% { x: 619px; y: 45px; opacity: 1; } 75.887% { x: 633px; y: 45px; opacity: 1; } 76.596% { x: 647px; y: 45px; opacity: 1; } 77.305% { x: 661px; y: 45px; opacity: 1; } 78.014% { x: 675px; y: 45px; opacity: 1; } 78.723% { x: 689px; y: 45px; opacity: 1; } 79.433% { x: 703px; y: 45px; opacity: 1; } 80.142% { x: 717px; y: 45px; opacity: 1; } 80.851% { x: 731px; y: 45px; opacity: 1; } 81.560% { x: 731px; y: 31px; opacity: 1; } 82.270% { x: 717px; y: 31px; opacity: 1; } 82.979% { x: 703px; y: 31px; opacity: 1; } 83.688% { x: 689px; y: 31px; opacity: 1; } 84.397% { x: 675px; y: 31px; opacity: 1; } 85.106% { x: 661px; y: 31px; opacity: 1; } 85.816% { x: 647px; y: 31px; opacity: 1; } 86.525% { x: 633px; y: 31px; opacity: 1; } 87.234% { x: 619px; y: 31px; opacity: 1; } 87.943% { x: 605px; y: 31px; opacity: 1; } 88.652% { x: 591px; y: 31px; opacity: 1; } 89.362% { x: 577px; y: 31px; opacity: 1; } 90.071% { x: 563px; y: 31px; opacity: 1; } 90.780% { x: 549px; y: 31px; opacity: 1; } 91.489% { x: 535px; y: 31px; opacity: 1; } 92.199% { x: 521px; y: 31px; opacity: 1; } 92.908% { x: 507px; y: 31px; opacity: 1; } 93.617% { x: 493px; y: 31px; opacity: 1; } 94.326% { x: 479px; y: 31px; opacity: 1; } 95.035% { x: 479px; y: 45px; opacity: 1; } 95.745% { x: 479px; y: 59px; opacity: 1; } 96.454% { x: 479px; y: 73px; opacity: 1; } 97.163% { x: 479px; y: 87px; opacity: 1; } 97.872% { x: 465px; y: 87px; opacity: 1; } 98.582% { x: 451px; y: 87px; opacity: 1; } 99.291% { x: 437px; y: 87px; opacity: 1; } }
-#snake-body-3 { animation: snake-body-3 31.02s steps(1) infinite; }
+@keyframes eat-8-3 { 0% { fill: #14532d; } 7.857% { fill: #14532d; } 7.957% { fill: #161b22; } 100% { fill: #161b22; } }
+#c-8-3 { animation: eat-8-3 30.80s linear infinite; }
+@keyframes eat-11-3 { 0% { fill: #14532d; } 10.000% { fill: #14532d; } 10.100% { fill: #161b22; } 100% { fill: #161b22; } }
+#c-11-3 { animation: eat-11-3 30.80s linear infinite; }
+@keyframes eat-11-4 { 0% { fill: #14532d; } 10.714% { fill: #14532d; } 10.814% { fill: #161b22; } 100% { fill: #161b22; } }
+#c-11-4 { animation: eat-11-4 30.80s linear infinite; }
+@keyframes eat-12-4 { 0% { fill: #14532d; } 11.429% { fill: #14532d; } 11.529% { fill: #161b22; } 100% { fill: #161b22; } }
+#c-12-4 { animation: eat-12-4 30.80s linear infinite; }
+@keyframes eat-14-4 { 0% { fill: #14532d; } 12.857% { fill: #14532d; } 12.957% { fill: #161b22; } 100% { fill: #161b22; } }
+#c-14-4 { animation: eat-14-4 30.80s linear infinite; }
+@keyframes eat-15-4 { 0% { fill: #14532d; } 13.571% { fill: #14532d; } 13.671% { fill: #161b22; } 100% { fill: #161b22; } }
+#c-15-4 { animation: eat-15-4 30.80s linear infinite; }
+@keyframes eat-16-3 { 0% { fill: #14532d; } 15.000% { fill: #14532d; } 15.100% { fill: #161b22; } 100% { fill: #161b22; } }
+#c-16-3 { animation: eat-16-3 30.80s linear infinite; }
+@keyframes eat-17-3 { 0% { fill: #14532d; } 15.714% { fill: #14532d; } 15.814% { fill: #161b22; } 100% { fill: #161b22; } }
+#c-17-3 { animation: eat-17-3 30.80s linear infinite; }
+@keyframes eat-18-4 { 0% { fill: #14532d; } 17.143% { fill: #14532d; } 17.243% { fill: #161b22; } 100% { fill: #161b22; } }
+#c-18-4 { animation: eat-18-4 30.80s linear infinite; }
+@keyframes eat-19-4 { 0% { fill: #14532d; } 17.857% { fill: #14532d; } 17.957% { fill: #161b22; } 100% { fill: #161b22; } }
+#c-19-4 { animation: eat-19-4 30.80s linear infinite; }
+@keyframes eat-19-2 { 0% { fill: #14532d; } 19.286% { fill: #14532d; } 19.386% { fill: #161b22; } 100% { fill: #161b22; } }
+#c-19-2 { animation: eat-19-2 30.80s linear infinite; }
+@keyframes eat-18-1 { 0% { fill: #14532d; } 20.714% { fill: #14532d; } 20.814% { fill: #161b22; } 100% { fill: #161b22; } }
+#c-18-1 { animation: eat-18-1 30.80s linear infinite; }
+@keyframes eat-15-1 { 0% { fill: #14532d; } 22.857% { fill: #14532d; } 22.957% { fill: #161b22; } 100% { fill: #161b22; } }
+#c-15-1 { animation: eat-15-1 30.80s linear infinite; }
+@keyframes eat-15-2 { 0% { fill: #14532d; } 23.571% { fill: #14532d; } 23.671% { fill: #161b22; } 100% { fill: #161b22; } }
+#c-15-2 { animation: eat-15-2 30.80s linear infinite; }
+@keyframes eat-14-3 { 0% { fill: #14532d; } 25.000% { fill: #14532d; } 25.100% { fill: #161b22; } 100% { fill: #161b22; } }
+#c-14-3 { animation: eat-14-3 30.80s linear infinite; }
+@keyframes eat-13-3 { 0% { fill: #14532d; } 25.714% { fill: #14532d; } 25.814% { fill: #161b22; } 100% { fill: #161b22; } }
+#c-13-3 { animation: eat-13-3 30.80s linear infinite; }
+@keyframes eat-12-2 { 0% { fill: #14532d; } 27.143% { fill: #14532d; } 27.243% { fill: #161b22; } 100% { fill: #161b22; } }
+#c-12-2 { animation: eat-12-2 30.80s linear infinite; }
+@keyframes eat-11-2 { 0% { fill: #14532d; } 27.857% { fill: #14532d; } 27.957% { fill: #161b22; } 100% { fill: #161b22; } }
+#c-11-2 { animation: eat-11-2 30.80s linear infinite; }
+@keyframes eat-13-5 { 0% { fill: #14532d; } 31.429% { fill: #14532d; } 31.529% { fill: #161b22; } 100% { fill: #161b22; } }
+#c-13-5 { animation: eat-13-5 30.80s linear infinite; }
+@keyframes eat-14-5 { 0% { fill: #14532d; } 32.143% { fill: #14532d; } 32.243% { fill: #161b22; } 100% { fill: #161b22; } }
+#c-14-5 { animation: eat-14-5 30.80s linear infinite; }
+@keyframes eat-21-5 { 0% { fill: #14532d; } 37.143% { fill: #14532d; } 37.243% { fill: #161b22; } 100% { fill: #161b22; } }
+#c-21-5 { animation: eat-21-5 30.80s linear infinite; }
+@keyframes eat-22-4 { 0% { fill: #14532d; } 38.571% { fill: #14532d; } 38.671% { fill: #161b22; } 100% { fill: #161b22; } }
+#c-22-4 { animation: eat-22-4 30.80s linear infinite; }
+@keyframes eat-23-1 { 0% { fill: #14532d; } 41.429% { fill: #14532d; } 41.529% { fill: #161b22; } 100% { fill: #161b22; } }
+#c-23-1 { animation: eat-23-1 30.80s linear infinite; }
+@keyframes eat-31-1 { 0% { fill: #14532d; } 47.143% { fill: #14532d; } 47.243% { fill: #161b22; } 100% { fill: #161b22; } }
+#c-31-1 { animation: eat-31-1 30.80s linear infinite; }
+@keyframes eat-32-1 { 0% { fill: #14532d; } 47.857% { fill: #14532d; } 47.957% { fill: #161b22; } 100% { fill: #161b22; } }
+#c-32-1 { animation: eat-32-1 30.80s linear infinite; }
+@keyframes eat-33-1 { 0% { fill: #14532d; } 48.571% { fill: #14532d; } 48.671% { fill: #161b22; } 100% { fill: #161b22; } }
+#c-33-1 { animation: eat-33-1 30.80s linear infinite; }
+@keyframes eat-34-2 { 0% { fill: #14532d; } 50.000% { fill: #14532d; } 50.100% { fill: #161b22; } 100% { fill: #161b22; } }
+#c-34-2 { animation: eat-34-2 30.80s linear infinite; }
+@keyframes eat-35-2 { 0% { fill: #14532d; } 50.714% { fill: #14532d; } 50.814% { fill: #161b22; } 100% { fill: #161b22; } }
+#c-35-2 { animation: eat-35-2 30.80s linear infinite; }
+@keyframes eat-35-3 { 0% { fill: #14532d; } 51.429% { fill: #14532d; } 51.529% { fill: #161b22; } 100% { fill: #161b22; } }
+#c-35-3 { animation: eat-35-3 30.80s linear infinite; }
+@keyframes eat-34-3 { 0% { fill: #14532d; } 52.143% { fill: #14532d; } 52.243% { fill: #161b22; } 100% { fill: #161b22; } }
+#c-34-3 { animation: eat-34-3 30.80s linear infinite; }
+@keyframes eat-35-4 { 0% { fill: #14532d; } 53.571% { fill: #14532d; } 53.671% { fill: #161b22; } 100% { fill: #161b22; } }
+#c-35-4 { animation: eat-35-4 30.80s linear infinite; }
+@keyframes eat-37-4 { 0% { fill: #14532d; } 55.000% { fill: #14532d; } 55.100% { fill: #161b22; } 100% { fill: #161b22; } }
+#c-37-4 { animation: eat-37-4 30.80s linear infinite; }
+@keyframes eat-38-4 { 0% { fill: #14532d; } 55.714% { fill: #14532d; } 55.814% { fill: #161b22; } 100% { fill: #161b22; } }
+#c-38-4 { animation: eat-38-4 30.80s linear infinite; }
+@keyframes eat-40-4 { 0% { fill: #14532d; } 57.143% { fill: #14532d; } 57.243% { fill: #161b22; } 100% { fill: #161b22; } }
+#c-40-4 { animation: eat-40-4 30.80s linear infinite; }
+@keyframes eat-40-3 { 0% { fill: #14532d; } 57.857% { fill: #14532d; } 57.957% { fill: #161b22; } 100% { fill: #161b22; } }
+#c-40-3 { animation: eat-40-3 30.80s linear infinite; }
+@keyframes eat-39-3 { 0% { fill: #4ade80; } 58.571% { fill: #4ade80; } 58.671% { fill: #161b22; } 100% { fill: #161b22; } }
+#c-39-3 { animation: eat-39-3 30.80s linear infinite; }
+@keyframes eat-39-2 { 0% { fill: #166534; } 59.286% { fill: #166534; } 59.386% { fill: #161b22; } 100% { fill: #161b22; } }
+#c-39-2 { animation: eat-39-2 30.80s linear infinite; }
+@keyframes eat-40-2 { 0% { fill: #166534; } 60.000% { fill: #166534; } 60.100% { fill: #161b22; } 100% { fill: #161b22; } }
+#c-40-2 { animation: eat-40-2 30.80s linear infinite; }
+@keyframes eat-40-1 { 0% { fill: #14532d; } 60.714% { fill: #14532d; } 60.814% { fill: #161b22; } 100% { fill: #161b22; } }
+#c-40-1 { animation: eat-40-1 30.80s linear infinite; }
+@keyframes eat-39-1 { 0% { fill: #14532d; } 61.429% { fill: #14532d; } 61.529% { fill: #161b22; } 100% { fill: #161b22; } }
+#c-39-1 { animation: eat-39-1 30.80s linear infinite; }
+@keyframes eat-37-1 { 0% { fill: #14532d; } 62.857% { fill: #14532d; } 62.957% { fill: #161b22; } 100% { fill: #161b22; } }
+#c-37-1 { animation: eat-37-1 30.80s linear infinite; }
+@keyframes eat-36-1 { 0% { fill: #166534; } 63.571% { fill: #166534; } 63.671% { fill: #161b22; } 100% { fill: #161b22; } }
+#c-36-1 { animation: eat-36-1 30.80s linear infinite; }
+@keyframes eat-37-3 { 0% { fill: #14532d; } 65.714% { fill: #14532d; } 65.814% { fill: #161b22; } 100% { fill: #161b22; } }
+#c-37-3 { animation: eat-37-3 30.80s linear infinite; }
+@keyframes eat-37-6 { 0% { fill: #14532d; } 67.857% { fill: #14532d; } 67.957% { fill: #161b22; } 100% { fill: #161b22; } }
+#c-37-6 { animation: eat-37-6 30.80s linear infinite; }
+@keyframes eat-38-6 { 0% { fill: #14532d; } 68.571% { fill: #14532d; } 68.671% { fill: #161b22; } 100% { fill: #161b22; } }
+#c-38-6 { animation: eat-38-6 30.80s linear infinite; }
+@keyframes eat-40-6 { 0% { fill: #14532d; } 70.000% { fill: #14532d; } 70.100% { fill: #161b22; } 100% { fill: #161b22; } }
+#c-40-6 { animation: eat-40-6 30.80s linear infinite; }
+@keyframes eat-41-5 { 0% { fill: #14532d; } 71.429% { fill: #14532d; } 71.529% { fill: #161b22; } 100% { fill: #161b22; } }
+#c-41-5 { animation: eat-41-5 30.80s linear infinite; }
+@keyframes eat-43-3 { 0% { fill: #14532d; } 74.286% { fill: #14532d; } 74.386% { fill: #161b22; } 100% { fill: #161b22; } }
+#c-43-3 { animation: eat-43-3 30.80s linear infinite; }
+@keyframes eat-51-3 { 0% { fill: #14532d; } 80.000% { fill: #14532d; } 80.100% { fill: #161b22; } 100% { fill: #161b22; } }
+#c-51-3 { animation: eat-51-3 30.80s linear infinite; }
+@keyframes eat-51-2 { 0% { fill: #4ade80; } 80.714% { fill: #4ade80; } 80.814% { fill: #161b22; } 100% { fill: #161b22; } }
+#c-51-2 { animation: eat-51-2 30.80s linear infinite; }
+@keyframes eat-33-6 { 0% { fill: #16a34a; } 96.429% { fill: #16a34a; } 96.529% { fill: #161b22; } 100% { fill: #161b22; } }
+#c-33-6 { animation: eat-33-6 30.80s linear infinite; }
+@keyframes eat-30-5 { 0% { fill: #14532d; } 99.286% { fill: #14532d; } 99.386% { fill: #161b22; } 100% { fill: #161b22; } }
+#c-30-5 { animation: eat-30-5 30.80s linear infinite; }
+@keyframes snake-head { 0.000% { x: 3px; y: 3px; } 0.714% { x: 17px; y: 3px; } 1.429% { x: 31px; y: 3px; } 2.143% { x: 45px; y: 3px; } 2.857% { x: 59px; y: 3px; } 3.571% { x: 73px; y: 3px; } 4.286% { x: 87px; y: 3px; } 5.000% { x: 101px; y: 3px; } 5.714% { x: 115px; y: 3px; } 6.429% { x: 115px; y: 17px; } 7.143% { x: 115px; y: 31px; } 7.857% { x: 115px; y: 45px; } 8.571% { x: 129px; y: 45px; } 9.286% { x: 143px; y: 45px; } 10.000% { x: 157px; y: 45px; } 10.714% { x: 157px; y: 59px; } 11.429% { x: 171px; y: 59px; } 12.143% { x: 185px; y: 59px; } 12.857% { x: 199px; y: 59px; } 13.571% { x: 213px; y: 59px; } 14.286% { x: 227px; y: 59px; } 15.000% { x: 227px; y: 45px; } 15.714% { x: 241px; y: 45px; } 16.429% { x: 255px; y: 45px; } 17.143% { x: 255px; y: 59px; } 17.857% { x: 269px; y: 59px; } 18.571% { x: 269px; y: 45px; } 19.286% { x: 269px; y: 31px; } 20.000% { x: 255px; y: 31px; } 20.714% { x: 255px; y: 17px; } 21.429% { x: 241px; y: 17px; } 22.143% { x: 227px; y: 17px; } 22.857% { x: 213px; y: 17px; } 23.571% { x: 213px; y: 31px; } 24.286% { x: 199px; y: 31px; } 25.000% { x: 199px; y: 45px; } 25.714% { x: 185px; y: 45px; } 26.429% { x: 171px; y: 45px; } 27.143% { x: 171px; y: 31px; } 27.857% { x: 157px; y: 31px; } 28.571% { x: 157px; y: 45px; } 29.286% { x: 157px; y: 59px; } 30.000% { x: 171px; y: 59px; } 30.714% { x: 185px; y: 59px; } 31.429% { x: 185px; y: 73px; } 32.143% { x: 199px; y: 73px; } 32.857% { x: 213px; y: 73px; } 33.571% { x: 227px; y: 73px; } 34.286% { x: 241px; y: 73px; } 35.000% { x: 255px; y: 73px; } 35.714% { x: 269px; y: 73px; } 36.429% { x: 283px; y: 73px; } 37.143% { x: 297px; y: 73px; } 37.857% { x: 311px; y: 73px; } 38.571% { x: 311px; y: 59px; } 39.286% { x: 325px; y: 59px; } 40.000% { x: 325px; y: 45px; } 40.714% { x: 325px; y: 31px; } 41.429% { x: 325px; y: 17px; } 42.143% { x: 339px; y: 17px; } 42.857% { x: 353px; y: 17px; } 43.571% { x: 367px; y: 17px; } 44.286% { x: 381px; y: 17px; } 45.000% { x: 395px; y: 17px; } 45.714% { x: 409px; y: 17px; } 46.429% { x: 423px; y: 17px; } 47.143% { x: 437px; y: 17px; } 47.857% { x: 451px; y: 17px; } 48.571% { x: 465px; y: 17px; } 49.286% { x: 479px; y: 17px; } 50.000% { x: 479px; y: 31px; } 50.714% { x: 493px; y: 31px; } 51.429% { x: 493px; y: 45px; } 52.143% { x: 479px; y: 45px; } 52.857% { x: 479px; y: 59px; } 53.571% { x: 493px; y: 59px; } 54.286% { x: 507px; y: 59px; } 55.000% { x: 521px; y: 59px; } 55.714% { x: 535px; y: 59px; } 56.429% { x: 549px; y: 59px; } 57.143% { x: 563px; y: 59px; } 57.857% { x: 563px; y: 45px; } 58.571% { x: 549px; y: 45px; } 59.286% { x: 549px; y: 31px; } 60.000% { x: 563px; y: 31px; } 60.714% { x: 563px; y: 17px; } 61.429% { x: 549px; y: 17px; } 62.143% { x: 535px; y: 17px; } 62.857% { x: 521px; y: 17px; } 63.571% { x: 507px; y: 17px; } 64.286% { x: 507px; y: 31px; } 65.000% { x: 521px; y: 31px; } 65.714% { x: 521px; y: 45px; } 66.429% { x: 521px; y: 59px; } 67.143% { x: 521px; y: 73px; } 67.857% { x: 521px; y: 87px; } 68.571% { x: 535px; y: 87px; } 69.286% { x: 549px; y: 87px; } 70.000% { x: 563px; y: 87px; } 70.714% { x: 577px; y: 87px; } 71.429% { x: 577px; y: 73px; } 72.143% { x: 591px; y: 73px; } 72.857% { x: 605px; y: 73px; } 73.571% { x: 605px; y: 59px; } 74.286% { x: 605px; y: 45px; } 75.000% { x: 619px; y: 45px; } 75.714% { x: 633px; y: 45px; } 76.429% { x: 647px; y: 45px; } 77.143% { x: 661px; y: 45px; } 77.857% { x: 675px; y: 45px; } 78.571% { x: 689px; y: 45px; } 79.286% { x: 703px; y: 45px; } 80.000% { x: 717px; y: 45px; } 80.714% { x: 717px; y: 31px; } 81.429% { x: 703px; y: 31px; } 82.143% { x: 689px; y: 31px; } 82.857% { x: 675px; y: 31px; } 83.571% { x: 661px; y: 31px; } 84.286% { x: 647px; y: 31px; } 85.000% { x: 633px; y: 31px; } 85.714% { x: 619px; y: 31px; } 86.429% { x: 605px; y: 31px; } 87.143% { x: 591px; y: 31px; } 87.857% { x: 577px; y: 31px; } 88.571% { x: 563px; y: 31px; } 89.286% { x: 549px; y: 31px; } 90.000% { x: 535px; y: 31px; } 90.714% { x: 521px; y: 31px; } 91.429% { x: 507px; y: 31px; } 92.143% { x: 493px; y: 31px; } 92.857% { x: 479px; y: 31px; } 93.571% { x: 465px; y: 31px; } 94.286% { x: 465px; y: 45px; } 95.000% { x: 465px; y: 59px; } 95.714% { x: 465px; y: 73px; } 96.429% { x: 465px; y: 87px; } 97.143% { x: 451px; y: 87px; } 97.857% { x: 437px; y: 87px; } 98.571% { x: 423px; y: 87px; } 99.286% { x: 423px; y: 73px; } 100% { x: 423px; y: 73px; } }
+#snake-head { animation: snake-head 30.80s steps(1) infinite; }
+@keyframes snake-body-0 { 0.000% { x: -50px; y: -50px; opacity: 0; } 0.714% { x: -50px; y: -50px; opacity: 0; } 1.429% { x: -50px; y: -50px; opacity: 0; } 2.143% { x: -50px; y: -50px; opacity: 0; } 2.857% { x: 3px; y: 3px; opacity: 1; } 3.571% { x: 17px; y: 3px; opacity: 1; } 4.286% { x: 31px; y: 3px; opacity: 1; } 5.000% { x: 45px; y: 3px; opacity: 1; } 5.714% { x: 59px; y: 3px; opacity: 1; } 6.429% { x: 73px; y: 3px; opacity: 1; } 7.143% { x: 87px; y: 3px; opacity: 1; } 7.857% { x: 101px; y: 3px; opacity: 1; } 8.571% { x: 115px; y: 3px; opacity: 1; } 9.286% { x: 115px; y: 17px; opacity: 1; } 10.000% { x: 115px; y: 31px; opacity: 1; } 10.714% { x: 115px; y: 45px; opacity: 1; } 11.429% { x: 129px; y: 45px; opacity: 1; } 12.143% { x: 143px; y: 45px; opacity: 1; } 12.857% { x: 157px; y: 45px; opacity: 1; } 13.571% { x: 157px; y: 59px; opacity: 1; } 14.286% { x: 171px; y: 59px; opacity: 1; } 15.000% { x: 185px; y: 59px; opacity: 1; } 15.714% { x: 199px; y: 59px; opacity: 1; } 16.429% { x: 213px; y: 59px; opacity: 1; } 17.143% { x: 227px; y: 59px; opacity: 1; } 17.857% { x: 227px; y: 45px; opacity: 1; } 18.571% { x: 241px; y: 45px; opacity: 1; } 19.286% { x: 255px; y: 45px; opacity: 1; } 20.000% { x: 255px; y: 59px; opacity: 1; } 20.714% { x: 269px; y: 59px; opacity: 1; } 21.429% { x: 269px; y: 45px; opacity: 1; } 22.143% { x: 269px; y: 31px; opacity: 1; } 22.857% { x: 255px; y: 31px; opacity: 1; } 23.571% { x: 255px; y: 17px; opacity: 1; } 24.286% { x: 241px; y: 17px; opacity: 1; } 25.000% { x: 227px; y: 17px; opacity: 1; } 25.714% { x: 213px; y: 17px; opacity: 1; } 26.429% { x: 213px; y: 31px; opacity: 1; } 27.143% { x: 199px; y: 31px; opacity: 1; } 27.857% { x: 199px; y: 45px; opacity: 1; } 28.571% { x: 185px; y: 45px; opacity: 1; } 29.286% { x: 171px; y: 45px; opacity: 1; } 30.000% { x: 171px; y: 31px; opacity: 1; } 30.714% { x: 157px; y: 31px; opacity: 1; } 31.429% { x: 157px; y: 45px; opacity: 1; } 32.143% { x: 157px; y: 59px; opacity: 1; } 32.857% { x: 171px; y: 59px; opacity: 1; } 33.571% { x: 185px; y: 59px; opacity: 1; } 34.286% { x: 185px; y: 73px; opacity: 1; } 35.000% { x: 199px; y: 73px; opacity: 1; } 35.714% { x: 213px; y: 73px; opacity: 1; } 36.429% { x: 227px; y: 73px; opacity: 1; } 37.143% { x: 241px; y: 73px; opacity: 1; } 37.857% { x: 255px; y: 73px; opacity: 1; } 38.571% { x: 269px; y: 73px; opacity: 1; } 39.286% { x: 283px; y: 73px; opacity: 1; } 40.000% { x: 297px; y: 73px; opacity: 1; } 40.714% { x: 311px; y: 73px; opacity: 1; } 41.429% { x: 311px; y: 59px; opacity: 1; } 42.143% { x: 325px; y: 59px; opacity: 1; } 42.857% { x: 325px; y: 45px; opacity: 1; } 43.571% { x: 325px; y: 31px; opacity: 1; } 44.286% { x: 325px; y: 17px; opacity: 1; } 45.000% { x: 339px; y: 17px; opacity: 1; } 45.714% { x: 353px; y: 17px; opacity: 1; } 46.429% { x: 367px; y: 17px; opacity: 1; } 47.143% { x: 381px; y: 17px; opacity: 1; } 47.857% { x: 395px; y: 17px; opacity: 1; } 48.571% { x: 409px; y: 17px; opacity: 1; } 49.286% { x: 423px; y: 17px; opacity: 1; } 50.000% { x: 437px; y: 17px; opacity: 1; } 50.714% { x: 451px; y: 17px; opacity: 1; } 51.429% { x: 465px; y: 17px; opacity: 1; } 52.143% { x: 479px; y: 17px; opacity: 1; } 52.857% { x: 479px; y: 31px; opacity: 1; } 53.571% { x: 493px; y: 31px; opacity: 1; } 54.286% { x: 493px; y: 45px; opacity: 1; } 55.000% { x: 479px; y: 45px; opacity: 1; } 55.714% { x: 479px; y: 59px; opacity: 1; } 56.429% { x: 493px; y: 59px; opacity: 1; } 57.143% { x: 507px; y: 59px; opacity: 1; } 57.857% { x: 521px; y: 59px; opacity: 1; } 58.571% { x: 535px; y: 59px; opacity: 1; } 59.286% { x: 549px; y: 59px; opacity: 1; } 60.000% { x: 563px; y: 59px; opacity: 1; } 60.714% { x: 563px; y: 45px; opacity: 1; } 61.429% { x: 549px; y: 45px; opacity: 1; } 62.143% { x: 549px; y: 31px; opacity: 1; } 62.857% { x: 563px; y: 31px; opacity: 1; } 63.571% { x: 563px; y: 17px; opacity: 1; } 64.286% { x: 549px; y: 17px; opacity: 1; } 65.000% { x: 535px; y: 17px; opacity: 1; } 65.714% { x: 521px; y: 17px; opacity: 1; } 66.429% { x: 507px; y: 17px; opacity: 1; } 67.143% { x: 507px; y: 31px; opacity: 1; } 67.857% { x: 521px; y: 31px; opacity: 1; } 68.571% { x: 521px; y: 45px; opacity: 1; } 69.286% { x: 521px; y: 59px; opacity: 1; } 70.000% { x: 521px; y: 73px; opacity: 1; } 70.714% { x: 521px; y: 87px; opacity: 1; } 71.429% { x: 535px; y: 87px; opacity: 1; } 72.143% { x: 549px; y: 87px; opacity: 1; } 72.857% { x: 563px; y: 87px; opacity: 1; } 73.571% { x: 577px; y: 87px; opacity: 1; } 74.286% { x: 577px; y: 73px; opacity: 1; } 75.000% { x: 591px; y: 73px; opacity: 1; } 75.714% { x: 605px; y: 73px; opacity: 1; } 76.429% { x: 605px; y: 59px; opacity: 1; } 77.143% { x: 605px; y: 45px; opacity: 1; } 77.857% { x: 619px; y: 45px; opacity: 1; } 78.571% { x: 633px; y: 45px; opacity: 1; } 79.286% { x: 647px; y: 45px; opacity: 1; } 80.000% { x: 661px; y: 45px; opacity: 1; } 80.714% { x: 675px; y: 45px; opacity: 1; } 81.429% { x: 689px; y: 45px; opacity: 1; } 82.143% { x: 703px; y: 45px; opacity: 1; } 82.857% { x: 717px; y: 45px; opacity: 1; } 83.571% { x: 717px; y: 31px; opacity: 1; } 84.286% { x: 703px; y: 31px; opacity: 1; } 85.000% { x: 689px; y: 31px; opacity: 1; } 85.714% { x: 675px; y: 31px; opacity: 1; } 86.429% { x: 661px; y: 31px; opacity: 1; } 87.143% { x: 647px; y: 31px; opacity: 1; } 87.857% { x: 633px; y: 31px; opacity: 1; } 88.571% { x: 619px; y: 31px; opacity: 1; } 89.286% { x: 605px; y: 31px; opacity: 1; } 90.000% { x: 591px; y: 31px; opacity: 1; } 90.714% { x: 577px; y: 31px; opacity: 1; } 91.429% { x: 563px; y: 31px; opacity: 1; } 92.143% { x: 549px; y: 31px; opacity: 1; } 92.857% { x: 535px; y: 31px; opacity: 1; } 93.571% { x: 521px; y: 31px; opacity: 1; } 94.286% { x: 507px; y: 31px; opacity: 1; } 95.000% { x: 493px; y: 31px; opacity: 1; } 95.714% { x: 479px; y: 31px; opacity: 1; } 96.429% { x: 465px; y: 31px; opacity: 1; } 97.143% { x: 465px; y: 45px; opacity: 1; } 97.857% { x: 465px; y: 59px; opacity: 1; } 98.571% { x: 465px; y: 73px; opacity: 1; } 99.286% { x: 465px; y: 87px; opacity: 1; } }
+#snake-body-0 { animation: snake-body-0 30.80s steps(1) infinite; }
+@keyframes snake-body-1 { 0.000% { x: -50px; y: -50px; opacity: 0; } 0.714% { x: -50px; y: -50px; opacity: 0; } 1.429% { x: -50px; y: -50px; opacity: 0; } 2.143% { x: 3px; y: 3px; opacity: 1; } 2.857% { x: 17px; y: 3px; opacity: 1; } 3.571% { x: 31px; y: 3px; opacity: 1; } 4.286% { x: 45px; y: 3px; opacity: 1; } 5.000% { x: 59px; y: 3px; opacity: 1; } 5.714% { x: 73px; y: 3px; opacity: 1; } 6.429% { x: 87px; y: 3px; opacity: 1; } 7.143% { x: 101px; y: 3px; opacity: 1; } 7.857% { x: 115px; y: 3px; opacity: 1; } 8.571% { x: 115px; y: 17px; opacity: 1; } 9.286% { x: 115px; y: 31px; opacity: 1; } 10.000% { x: 115px; y: 45px; opacity: 1; } 10.714% { x: 129px; y: 45px; opacity: 1; } 11.429% { x: 143px; y: 45px; opacity: 1; } 12.143% { x: 157px; y: 45px; opacity: 1; } 12.857% { x: 157px; y: 59px; opacity: 1; } 13.571% { x: 171px; y: 59px; opacity: 1; } 14.286% { x: 185px; y: 59px; opacity: 1; } 15.000% { x: 199px; y: 59px; opacity: 1; } 15.714% { x: 213px; y: 59px; opacity: 1; } 16.429% { x: 227px; y: 59px; opacity: 1; } 17.143% { x: 227px; y: 45px; opacity: 1; } 17.857% { x: 241px; y: 45px; opacity: 1; } 18.571% { x: 255px; y: 45px; opacity: 1; } 19.286% { x: 255px; y: 59px; opacity: 1; } 20.000% { x: 269px; y: 59px; opacity: 1; } 20.714% { x: 269px; y: 45px; opacity: 1; } 21.429% { x: 269px; y: 31px; opacity: 1; } 22.143% { x: 255px; y: 31px; opacity: 1; } 22.857% { x: 255px; y: 17px; opacity: 1; } 23.571% { x: 241px; y: 17px; opacity: 1; } 24.286% { x: 227px; y: 17px; opacity: 1; } 25.000% { x: 213px; y: 17px; opacity: 1; } 25.714% { x: 213px; y: 31px; opacity: 1; } 26.429% { x: 199px; y: 31px; opacity: 1; } 27.143% { x: 199px; y: 45px; opacity: 1; } 27.857% { x: 185px; y: 45px; opacity: 1; } 28.571% { x: 171px; y: 45px; opacity: 1; } 29.286% { x: 171px; y: 31px; opacity: 1; } 30.000% { x: 157px; y: 31px; opacity: 1; } 30.714% { x: 157px; y: 45px; opacity: 1; } 31.429% { x: 157px; y: 59px; opacity: 1; } 32.143% { x: 171px; y: 59px; opacity: 1; } 32.857% { x: 185px; y: 59px; opacity: 1; } 33.571% { x: 185px; y: 73px; opacity: 1; } 34.286% { x: 199px; y: 73px; opacity: 1; } 35.000% { x: 213px; y: 73px; opacity: 1; } 35.714% { x: 227px; y: 73px; opacity: 1; } 36.429% { x: 241px; y: 73px; opacity: 1; } 37.143% { x: 255px; y: 73px; opacity: 1; } 37.857% { x: 269px; y: 73px; opacity: 1; } 38.571% { x: 283px; y: 73px; opacity: 1; } 39.286% { x: 297px; y: 73px; opacity: 1; } 40.000% { x: 311px; y: 73px; opacity: 1; } 40.714% { x: 311px; y: 59px; opacity: 1; } 41.429% { x: 325px; y: 59px; opacity: 1; } 42.143% { x: 325px; y: 45px; opacity: 1; } 42.857% { x: 325px; y: 31px; opacity: 1; } 43.571% { x: 325px; y: 17px; opacity: 1; } 44.286% { x: 339px; y: 17px; opacity: 1; } 45.000% { x: 353px; y: 17px; opacity: 1; } 45.714% { x: 367px; y: 17px; opacity: 1; } 46.429% { x: 381px; y: 17px; opacity: 1; } 47.143% { x: 395px; y: 17px; opacity: 1; } 47.857% { x: 409px; y: 17px; opacity: 1; } 48.571% { x: 423px; y: 17px; opacity: 1; } 49.286% { x: 437px; y: 17px; opacity: 1; } 50.000% { x: 451px; y: 17px; opacity: 1; } 50.714% { x: 465px; y: 17px; opacity: 1; } 51.429% { x: 479px; y: 17px; opacity: 1; } 52.143% { x: 479px; y: 31px; opacity: 1; } 52.857% { x: 493px; y: 31px; opacity: 1; } 53.571% { x: 493px; y: 45px; opacity: 1; } 54.286% { x: 479px; y: 45px; opacity: 1; } 55.000% { x: 479px; y: 59px; opacity: 1; } 55.714% { x: 493px; y: 59px; opacity: 1; } 56.429% { x: 507px; y: 59px; opacity: 1; } 57.143% { x: 521px; y: 59px; opacity: 1; } 57.857% { x: 535px; y: 59px; opacity: 1; } 58.571% { x: 549px; y: 59px; opacity: 1; } 59.286% { x: 563px; y: 59px; opacity: 1; } 60.000% { x: 563px; y: 45px; opacity: 1; } 60.714% { x: 549px; y: 45px; opacity: 1; } 61.429% { x: 549px; y: 31px; opacity: 1; } 62.143% { x: 563px; y: 31px; opacity: 1; } 62.857% { x: 563px; y: 17px; opacity: 1; } 63.571% { x: 549px; y: 17px; opacity: 1; } 64.286% { x: 535px; y: 17px; opacity: 1; } 65.000% { x: 521px; y: 17px; opacity: 1; } 65.714% { x: 507px; y: 17px; opacity: 1; } 66.429% { x: 507px; y: 31px; opacity: 1; } 67.143% { x: 521px; y: 31px; opacity: 1; } 67.857% { x: 521px; y: 45px; opacity: 1; } 68.571% { x: 521px; y: 59px; opacity: 1; } 69.286% { x: 521px; y: 73px; opacity: 1; } 70.000% { x: 521px; y: 87px; opacity: 1; } 70.714% { x: 535px; y: 87px; opacity: 1; } 71.429% { x: 549px; y: 87px; opacity: 1; } 72.143% { x: 563px; y: 87px; opacity: 1; } 72.857% { x: 577px; y: 87px; opacity: 1; } 73.571% { x: 577px; y: 73px; opacity: 1; } 74.286% { x: 591px; y: 73px; opacity: 1; } 75.000% { x: 605px; y: 73px; opacity: 1; } 75.714% { x: 605px; y: 59px; opacity: 1; } 76.429% { x: 605px; y: 45px; opacity: 1; } 77.143% { x: 619px; y: 45px; opacity: 1; } 77.857% { x: 633px; y: 45px; opacity: 1; } 78.571% { x: 647px; y: 45px; opacity: 1; } 79.286% { x: 661px; y: 45px; opacity: 1; } 80.000% { x: 675px; y: 45px; opacity: 1; } 80.714% { x: 689px; y: 45px; opacity: 1; } 81.429% { x: 703px; y: 45px; opacity: 1; } 82.143% { x: 717px; y: 45px; opacity: 1; } 82.857% { x: 717px; y: 31px; opacity: 1; } 83.571% { x: 703px; y: 31px; opacity: 1; } 84.286% { x: 689px; y: 31px; opacity: 1; } 85.000% { x: 675px; y: 31px; opacity: 1; } 85.714% { x: 661px; y: 31px; opacity: 1; } 86.429% { x: 647px; y: 31px; opacity: 1; } 87.143% { x: 633px; y: 31px; opacity: 1; } 87.857% { x: 619px; y: 31px; opacity: 1; } 88.571% { x: 605px; y: 31px; opacity: 1; } 89.286% { x: 591px; y: 31px; opacity: 1; } 90.000% { x: 577px; y: 31px; opacity: 1; } 90.714% { x: 563px; y: 31px; opacity: 1; } 91.429% { x: 549px; y: 31px; opacity: 1; } 92.143% { x: 535px; y: 31px; opacity: 1; } 92.857% { x: 521px; y: 31px; opacity: 1; } 93.571% { x: 507px; y: 31px; opacity: 1; } 94.286% { x: 493px; y: 31px; opacity: 1; } 95.000% { x: 479px; y: 31px; opacity: 1; } 95.714% { x: 465px; y: 31px; opacity: 1; } 96.429% { x: 465px; y: 45px; opacity: 1; } 97.143% { x: 465px; y: 59px; opacity: 1; } 97.857% { x: 465px; y: 73px; opacity: 1; } 98.571% { x: 465px; y: 87px; opacity: 1; } 99.286% { x: 451px; y: 87px; opacity: 1; } }
+#snake-body-1 { animation: snake-body-1 30.80s steps(1) infinite; }
+@keyframes snake-body-2 { 0.000% { x: -50px; y: -50px; opacity: 0; } 0.714% { x: -50px; y: -50px; opacity: 0; } 1.429% { x: 3px; y: 3px; opacity: 1; } 2.143% { x: 17px; y: 3px; opacity: 1; } 2.857% { x: 31px; y: 3px; opacity: 1; } 3.571% { x: 45px; y: 3px; opacity: 1; } 4.286% { x: 59px; y: 3px; opacity: 1; } 5.000% { x: 73px; y: 3px; opacity: 1; } 5.714% { x: 87px; y: 3px; opacity: 1; } 6.429% { x: 101px; y: 3px; opacity: 1; } 7.143% { x: 115px; y: 3px; opacity: 1; } 7.857% { x: 115px; y: 17px; opacity: 1; } 8.571% { x: 115px; y: 31px; opacity: 1; } 9.286% { x: 115px; y: 45px; opacity: 1; } 10.000% { x: 129px; y: 45px; opacity: 1; } 10.714% { x: 143px; y: 45px; opacity: 1; } 11.429% { x: 157px; y: 45px; opacity: 1; } 12.143% { x: 157px; y: 59px; opacity: 1; } 12.857% { x: 171px; y: 59px; opacity: 1; } 13.571% { x: 185px; y: 59px; opacity: 1; } 14.286% { x: 199px; y: 59px; opacity: 1; } 15.000% { x: 213px; y: 59px; opacity: 1; } 15.714% { x: 227px; y: 59px; opacity: 1; } 16.429% { x: 227px; y: 45px; opacity: 1; } 17.143% { x: 241px; y: 45px; opacity: 1; } 17.857% { x: 255px; y: 45px; opacity: 1; } 18.571% { x: 255px; y: 59px; opacity: 1; } 19.286% { x: 269px; y: 59px; opacity: 1; } 20.000% { x: 269px; y: 45px; opacity: 1; } 20.714% { x: 269px; y: 31px; opacity: 1; } 21.429% { x: 255px; y: 31px; opacity: 1; } 22.143% { x: 255px; y: 17px; opacity: 1; } 22.857% { x: 241px; y: 17px; opacity: 1; } 23.571% { x: 227px; y: 17px; opacity: 1; } 24.286% { x: 213px; y: 17px; opacity: 1; } 25.000% { x: 213px; y: 31px; opacity: 1; } 25.714% { x: 199px; y: 31px; opacity: 1; } 26.429% { x: 199px; y: 45px; opacity: 1; } 27.143% { x: 185px; y: 45px; opacity: 1; } 27.857% { x: 171px; y: 45px; opacity: 1; } 28.571% { x: 171px; y: 31px; opacity: 1; } 29.286% { x: 157px; y: 31px; opacity: 1; } 30.000% { x: 157px; y: 45px; opacity: 1; } 30.714% { x: 157px; y: 59px; opacity: 1; } 31.429% { x: 171px; y: 59px; opacity: 1; } 32.143% { x: 185px; y: 59px; opacity: 1; } 32.857% { x: 185px; y: 73px; opacity: 1; } 33.571% { x: 199px; y: 73px; opacity: 1; } 34.286% { x: 213px; y: 73px; opacity: 1; } 35.000% { x: 227px; y: 73px; opacity: 1; } 35.714% { x: 241px; y: 73px; opacity: 1; } 36.429% { x: 255px; y: 73px; opacity: 1; } 37.143% { x: 269px; y: 73px; opacity: 1; } 37.857% { x: 283px; y: 73px; opacity: 1; } 38.571% { x: 297px; y: 73px; opacity: 1; } 39.286% { x: 311px; y: 73px; opacity: 1; } 40.000% { x: 311px; y: 59px; opacity: 1; } 40.714% { x: 325px; y: 59px; opacity: 1; } 41.429% { x: 325px; y: 45px; opacity: 1; } 42.143% { x: 325px; y: 31px; opacity: 1; } 42.857% { x: 325px; y: 17px; opacity: 1; } 43.571% { x: 339px; y: 17px; opacity: 1; } 44.286% { x: 353px; y: 17px; opacity: 1; } 45.000% { x: 367px; y: 17px; opacity: 1; } 45.714% { x: 381px; y: 17px; opacity: 1; } 46.429% { x: 395px; y: 17px; opacity: 1; } 47.143% { x: 409px; y: 17px; opacity: 1; } 47.857% { x: 423px; y: 17px; opacity: 1; } 48.571% { x: 437px; y: 17px; opacity: 1; } 49.286% { x: 451px; y: 17px; opacity: 1; } 50.000% { x: 465px; y: 17px; opacity: 1; } 50.714% { x: 479px; y: 17px; opacity: 1; } 51.429% { x: 479px; y: 31px; opacity: 1; } 52.143% { x: 493px; y: 31px; opacity: 1; } 52.857% { x: 493px; y: 45px; opacity: 1; } 53.571% { x: 479px; y: 45px; opacity: 1; } 54.286% { x: 479px; y: 59px; opacity: 1; } 55.000% { x: 493px; y: 59px; opacity: 1; } 55.714% { x: 507px; y: 59px; opacity: 1; } 56.429% { x: 521px; y: 59px; opacity: 1; } 57.143% { x: 535px; y: 59px; opacity: 1; } 57.857% { x: 549px; y: 59px; opacity: 1; } 58.571% { x: 563px; y: 59px; opacity: 1; } 59.286% { x: 563px; y: 45px; opacity: 1; } 60.000% { x: 549px; y: 45px; opacity: 1; } 60.714% { x: 549px; y: 31px; opacity: 1; } 61.429% { x: 563px; y: 31px; opacity: 1; } 62.143% { x: 563px; y: 17px; opacity: 1; } 62.857% { x: 549px; y: 17px; opacity: 1; } 63.571% { x: 535px; y: 17px; opacity: 1; } 64.286% { x: 521px; y: 17px; opacity: 1; } 65.000% { x: 507px; y: 17px; opacity: 1; } 65.714% { x: 507px; y: 31px; opacity: 1; } 66.429% { x: 521px; y: 31px; opacity: 1; } 67.143% { x: 521px; y: 45px; opacity: 1; } 67.857% { x: 521px; y: 59px; opacity: 1; } 68.571% { x: 521px; y: 73px; opacity: 1; } 69.286% { x: 521px; y: 87px; opacity: 1; } 70.000% { x: 535px; y: 87px; opacity: 1; } 70.714% { x: 549px; y: 87px; opacity: 1; } 71.429% { x: 563px; y: 87px; opacity: 1; } 72.143% { x: 577px; y: 87px; opacity: 1; } 72.857% { x: 577px; y: 73px; opacity: 1; } 73.571% { x: 591px; y: 73px; opacity: 1; } 74.286% { x: 605px; y: 73px; opacity: 1; } 75.000% { x: 605px; y: 59px; opacity: 1; } 75.714% { x: 605px; y: 45px; opacity: 1; } 76.429% { x: 619px; y: 45px; opacity: 1; } 77.143% { x: 633px; y: 45px; opacity: 1; } 77.857% { x: 647px; y: 45px; opacity: 1; } 78.571% { x: 661px; y: 45px; opacity: 1; } 79.286% { x: 675px; y: 45px; opacity: 1; } 80.000% { x: 689px; y: 45px; opacity: 1; } 80.714% { x: 703px; y: 45px; opacity: 1; } 81.429% { x: 717px; y: 45px; opacity: 1; } 82.143% { x: 717px; y: 31px; opacity: 1; } 82.857% { x: 703px; y: 31px; opacity: 1; } 83.571% { x: 689px; y: 31px; opacity: 1; } 84.286% { x: 675px; y: 31px; opacity: 1; } 85.000% { x: 661px; y: 31px; opacity: 1; } 85.714% { x: 647px; y: 31px; opacity: 1; } 86.429% { x: 633px; y: 31px; opacity: 1; } 87.143% { x: 619px; y: 31px; opacity: 1; } 87.857% { x: 605px; y: 31px; opacity: 1; } 88.571% { x: 591px; y: 31px; opacity: 1; } 89.286% { x: 577px; y: 31px; opacity: 1; } 90.000% { x: 563px; y: 31px; opacity: 1; } 90.714% { x: 549px; y: 31px; opacity: 1; } 91.429% { x: 535px; y: 31px; opacity: 1; } 92.143% { x: 521px; y: 31px; opacity: 1; } 92.857% { x: 507px; y: 31px; opacity: 1; } 93.571% { x: 493px; y: 31px; opacity: 1; } 94.286% { x: 479px; y: 31px; opacity: 1; } 95.000% { x: 465px; y: 31px; opacity: 1; } 95.714% { x: 465px; y: 45px; opacity: 1; } 96.429% { x: 465px; y: 59px; opacity: 1; } 97.143% { x: 465px; y: 73px; opacity: 1; } 97.857% { x: 465px; y: 87px; opacity: 1; } 98.571% { x: 451px; y: 87px; opacity: 1; } 99.286% { x: 437px; y: 87px; opacity: 1; } }
+#snake-body-2 { animation: snake-body-2 30.80s steps(1) infinite; }
+@keyframes snake-body-3 { 0.000% { x: -50px; y: -50px; opacity: 0; } 0.714% { x: 3px; y: 3px; opacity: 1; } 1.429% { x: 17px; y: 3px; opacity: 1; } 2.143% { x: 31px; y: 3px; opacity: 1; } 2.857% { x: 45px; y: 3px; opacity: 1; } 3.571% { x: 59px; y: 3px; opacity: 1; } 4.286% { x: 73px; y: 3px; opacity: 1; } 5.000% { x: 87px; y: 3px; opacity: 1; } 5.714% { x: 101px; y: 3px; opacity: 1; } 6.429% { x: 115px; y: 3px; opacity: 1; } 7.143% { x: 115px; y: 17px; opacity: 1; } 7.857% { x: 115px; y: 31px; opacity: 1; } 8.571% { x: 115px; y: 45px; opacity: 1; } 9.286% { x: 129px; y: 45px; opacity: 1; } 10.000% { x: 143px; y: 45px; opacity: 1; } 10.714% { x: 157px; y: 45px; opacity: 1; } 11.429% { x: 157px; y: 59px; opacity: 1; } 12.143% { x: 171px; y: 59px; opacity: 1; } 12.857% { x: 185px; y: 59px; opacity: 1; } 13.571% { x: 199px; y: 59px; opacity: 1; } 14.286% { x: 213px; y: 59px; opacity: 1; } 15.000% { x: 227px; y: 59px; opacity: 1; } 15.714% { x: 227px; y: 45px; opacity: 1; } 16.429% { x: 241px; y: 45px; opacity: 1; } 17.143% { x: 255px; y: 45px; opacity: 1; } 17.857% { x: 255px; y: 59px; opacity: 1; } 18.571% { x: 269px; y: 59px; opacity: 1; } 19.286% { x: 269px; y: 45px; opacity: 1; } 20.000% { x: 269px; y: 31px; opacity: 1; } 20.714% { x: 255px; y: 31px; opacity: 1; } 21.429% { x: 255px; y: 17px; opacity: 1; } 22.143% { x: 241px; y: 17px; opacity: 1; } 22.857% { x: 227px; y: 17px; opacity: 1; } 23.571% { x: 213px; y: 17px; opacity: 1; } 24.286% { x: 213px; y: 31px; opacity: 1; } 25.000% { x: 199px; y: 31px; opacity: 1; } 25.714% { x: 199px; y: 45px; opacity: 1; } 26.429% { x: 185px; y: 45px; opacity: 1; } 27.143% { x: 171px; y: 45px; opacity: 1; } 27.857% { x: 171px; y: 31px; opacity: 1; } 28.571% { x: 157px; y: 31px; opacity: 1; } 29.286% { x: 157px; y: 45px; opacity: 1; } 30.000% { x: 157px; y: 59px; opacity: 1; } 30.714% { x: 171px; y: 59px; opacity: 1; } 31.429% { x: 185px; y: 59px; opacity: 1; } 32.143% { x: 185px; y: 73px; opacity: 1; } 32.857% { x: 199px; y: 73px; opacity: 1; } 33.571% { x: 213px; y: 73px; opacity: 1; } 34.286% { x: 227px; y: 73px; opacity: 1; } 35.000% { x: 241px; y: 73px; opacity: 1; } 35.714% { x: 255px; y: 73px; opacity: 1; } 36.429% { x: 269px; y: 73px; opacity: 1; } 37.143% { x: 283px; y: 73px; opacity: 1; } 37.857% { x: 297px; y: 73px; opacity: 1; } 38.571% { x: 311px; y: 73px; opacity: 1; } 39.286% { x: 311px; y: 59px; opacity: 1; } 40.000% { x: 325px; y: 59px; opacity: 1; } 40.714% { x: 325px; y: 45px; opacity: 1; } 41.429% { x: 325px; y: 31px; opacity: 1; } 42.143% { x: 325px; y: 17px; opacity: 1; } 42.857% { x: 339px; y: 17px; opacity: 1; } 43.571% { x: 353px; y: 17px; opacity: 1; } 44.286% { x: 367px; y: 17px; opacity: 1; } 45.000% { x: 381px; y: 17px; opacity: 1; } 45.714% { x: 395px; y: 17px; opacity: 1; } 46.429% { x: 409px; y: 17px; opacity: 1; } 47.143% { x: 423px; y: 17px; opacity: 1; } 47.857% { x: 437px; y: 17px; opacity: 1; } 48.571% { x: 451px; y: 17px; opacity: 1; } 49.286% { x: 465px; y: 17px; opacity: 1; } 50.000% { x: 479px; y: 17px; opacity: 1; } 50.714% { x: 479px; y: 31px; opacity: 1; } 51.429% { x: 493px; y: 31px; opacity: 1; } 52.143% { x: 493px; y: 45px; opacity: 1; } 52.857% { x: 479px; y: 45px; opacity: 1; } 53.571% { x: 479px; y: 59px; opacity: 1; } 54.286% { x: 493px; y: 59px; opacity: 1; } 55.000% { x: 507px; y: 59px; opacity: 1; } 55.714% { x: 521px; y: 59px; opacity: 1; } 56.429% { x: 535px; y: 59px; opacity: 1; } 57.143% { x: 549px; y: 59px; opacity: 1; } 57.857% { x: 563px; y: 59px; opacity: 1; } 58.571% { x: 563px; y: 45px; opacity: 1; } 59.286% { x: 549px; y: 45px; opacity: 1; } 60.000% { x: 549px; y: 31px; opacity: 1; } 60.714% { x: 563px; y: 31px; opacity: 1; } 61.429% { x: 563px; y: 17px; opacity: 1; } 62.143% { x: 549px; y: 17px; opacity: 1; } 62.857% { x: 535px; y: 17px; opacity: 1; } 63.571% { x: 521px; y: 17px; opacity: 1; } 64.286% { x: 507px; y: 17px; opacity: 1; } 65.000% { x: 507px; y: 31px; opacity: 1; } 65.714% { x: 521px; y: 31px; opacity: 1; } 66.429% { x: 521px; y: 45px; opacity: 1; } 67.143% { x: 521px; y: 59px; opacity: 1; } 67.857% { x: 521px; y: 73px; opacity: 1; } 68.571% { x: 521px; y: 87px; opacity: 1; } 69.286% { x: 535px; y: 87px; opacity: 1; } 70.000% { x: 549px; y: 87px; opacity: 1; } 70.714% { x: 563px; y: 87px; opacity: 1; } 71.429% { x: 577px; y: 87px; opacity: 1; } 72.143% { x: 577px; y: 73px; opacity: 1; } 72.857% { x: 591px; y: 73px; opacity: 1; } 73.571% { x: 605px; y: 73px; opacity: 1; } 74.286% { x: 605px; y: 59px; opacity: 1; } 75.000% { x: 605px; y: 45px; opacity: 1; } 75.714% { x: 619px; y: 45px; opacity: 1; } 76.429% { x: 633px; y: 45px; opacity: 1; } 77.143% { x: 647px; y: 45px; opacity: 1; } 77.857% { x: 661px; y: 45px; opacity: 1; } 78.571% { x: 675px; y: 45px; opacity: 1; } 79.286% { x: 689px; y: 45px; opacity: 1; } 80.000% { x: 703px; y: 45px; opacity: 1; } 80.714% { x: 717px; y: 45px; opacity: 1; } 81.429% { x: 717px; y: 31px; opacity: 1; } 82.143% { x: 703px; y: 31px; opacity: 1; } 82.857% { x: 689px; y: 31px; opacity: 1; } 83.571% { x: 675px; y: 31px; opacity: 1; } 84.286% { x: 661px; y: 31px; opacity: 1; } 85.000% { x: 647px; y: 31px; opacity: 1; } 85.714% { x: 633px; y: 31px; opacity: 1; } 86.429% { x: 619px; y: 31px; opacity: 1; } 87.143% { x: 605px; y: 31px; opacity: 1; } 87.857% { x: 591px; y: 31px; opacity: 1; } 88.571% { x: 577px; y: 31px; opacity: 1; } 89.286% { x: 563px; y: 31px; opacity: 1; } 90.000% { x: 549px; y: 31px; opacity: 1; } 90.714% { x: 535px; y: 31px; opacity: 1; } 91.429% { x: 521px; y: 31px; opacity: 1; } 92.143% { x: 507px; y: 31px; opacity: 1; } 92.857% { x: 493px; y: 31px; opacity: 1; } 93.571% { x: 479px; y: 31px; opacity: 1; } 94.286% { x: 465px; y: 31px; opacity: 1; } 95.000% { x: 465px; y: 45px; opacity: 1; } 95.714% { x: 465px; y: 59px; opacity: 1; } 96.429% { x: 465px; y: 73px; opacity: 1; } 97.143% { x: 465px; y: 87px; opacity: 1; } 97.857% { x: 451px; y: 87px; opacity: 1; } 98.571% { x: 437px; y: 87px; opacity: 1; } 99.286% { x: 423px; y: 87px; opacity: 1; } }
+#snake-body-3 { animation: snake-body-3 30.80s steps(1) infinite; }
 </style>
 <rect id="c-0-0" x="3" y="3" width="11" height="11" rx="2" ry="2" />
 <rect id="c-0-1" x="3" y="17" width="11" height="11" rx="2" ry="2" />
