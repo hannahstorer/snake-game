@@ -40,6 +40,7 @@ jobs:
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
+          echo "copying svgs"
           cp dist/snake_darkmode.svg /tmp/snake_darkmode.svg
           cp dist/snake_lightmode.svg /tmp/snake_lightmode.svg
           git fetch origin
