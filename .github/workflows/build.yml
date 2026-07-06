@@ -40,13 +40,19 @@ jobs:
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
+          echo "--- files in dist before copy ---"
+          ls -la dist/
           cp dist/snake_darkmode.svg /tmp/snake_darkmode.svg
           cp dist/snake_lightmode.svg /tmp/snake_lightmode.svg
+          echo "--- files in tmp after copy ---"
+          ls -la /tmp/snake*.svg
           git fetch origin
           git checkout output 2>/dev/null || git checkout --orphan output
           git rm -rf . --quiet 2>/dev/null || true
           cp /tmp/snake_darkmode.svg snake_darkmode.svg
           cp /tmp/snake_lightmode.svg snake_lightmode.svg
+          echo "--- files after second copy ---"
+          ls -la snake*.svg
           git add -f snake_darkmode.svg snake_lightmode.svg
           git commit -m "update snake"
           git push origin output --force
