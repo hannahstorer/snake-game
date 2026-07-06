@@ -366,7 +366,7 @@
 #c-51-5 { fill: #ebedf0; }
 #c-51-6 { fill: #ebedf0; }
 #c-52-0 { fill: #d6f0da; }
-#c-52-1 { fill: #ebedf0; }
+#c-52-1 { fill: #d6f0da; }
 #c-52-2 { fill: #ebedf0; }
 #c-52-3 { fill: #ebedf0; }
 #c-52-4 { fill: #ebedf0; }
@@ -472,6 +472,8 @@
 #c-51-3 { animation: eat-51-3 32.12s linear infinite; }
 @keyframes eat-51-2 { 0% { fill: #1e6b3a; } 77.397% { fill: #1e6b3a; } 77.497% { fill: #ebedf0; } 100% { fill: #ebedf0; } }
 #c-51-2 { animation: eat-51-2 32.12s linear infinite; }
+@keyframes eat-52-1 { 0% { fill: #d6f0da; } 78.767% { fill: #d6f0da; } 78.867% { fill: #ebedf0; } 100% { fill: #ebedf0; } }
+#c-52-1 { animation: eat-52-1 32.12s linear infinite; }
 @keyframes eat-52-0 { 0% { fill: #d6f0da; } 79.452% { fill: #d6f0da; } 79.552% { fill: #ebedf0; } 100% { fill: #ebedf0; } }
 #c-52-0 { animation: eat-52-0 32.12s linear infinite; }
 @keyframes eat-33-6 { 0% { fill: #4a9e5c; } 96.575% { fill: #4a9e5c; } 96.675% { fill: #ebedf0; } 100% { fill: #ebedf0; } }
